@@ -1,0 +1,66 @@
+{
+  "id": 1276647001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91667,13.85,-60.91667,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":-60.91667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"100650000.0",
+    "gn:asciiname":"Fond Devaux",
+    "gn:country_code":"LC",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576726,
+    "gn:latitude":13.85,
+    "gn:longitude":-60.91667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fond Devaux",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576726
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"e139bdade568f10ac2fb8849491b9bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1276647001,
+            "region_id":85673707
+        }
+    ],
+    "wof:id":1276647001,
+    "wof:lastmodified":1536854434,
+    "wof:name":"Fond Devaux",
+    "wof:parent_id":85673707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91667,
+    13.85,
+    -60.91667,
+    13.85
+],
+  "geometry": {"coordinates":[-60.91667,13.85],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343463377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91625,13.94672,-60.91625,13.94672",
+    "geom:latitude":13.94672,
+    "geom:longitude":-60.91625,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"110220000.0",
+    "gn:asciiname":"La Ressource",
+    "gn:country_code":"LC",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576636,
+    "gn:latitude":13.94672,
+    "gn:longitude":-60.91625,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"La Ressource",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576636
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"17c3a82913beba3fc48107db348eb76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1343463377,
+            "region_id":85673689
+        }
+    ],
+    "wof:id":1343463377,
+    "wof:lastmodified":1536741693,
+    "wof:name":"La Ressource",
+    "wof:parent_id":85673689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91625,
+    13.94672,
+    -60.91625,
+    13.94672
+],
+  "geometry": {"coordinates":[-60.91625,13.94672],"type":"Point"}
+}

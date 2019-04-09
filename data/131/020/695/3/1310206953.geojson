@@ -1,0 +1,66 @@
+{
+  "id": 1310206953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02598,13.96376,-61.02598,13.96376",
+    "geom:latitude":13.96376,
+    "geom:longitude":-61.02598,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30610000.0",
+    "gn:asciiname":"Marigot Bay",
+    "gn:country_code":"LC",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576587,
+    "gn:latitude":13.96376,
+    "gn:longitude":-61.02598,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Marigot Bay",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576587
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"bb30643139891504454255918a38d2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1310206953,
+            "region_id":85673675
+        }
+    ],
+    "wof:id":1310206953,
+    "wof:lastmodified":1536849054,
+    "wof:name":"Marigot Bay",
+    "wof:parent_id":85673675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02598,
+    13.96376,
+    -61.02598,
+    13.96376
+],
+  "geometry": {"coordinates":[-61.02598,13.96376],"type":"Point"}
+}

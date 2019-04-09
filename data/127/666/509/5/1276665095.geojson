@@ -1,0 +1,66 @@
+{
+  "id": 1276665095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97202,13.98892,-60.97202,13.98892",
+    "geom:latitude":13.98892,
+    "geom:longitude":-60.97202,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30870000.0",
+    "gn:asciiname":"Bocage",
+    "gn:country_code":"LC",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072631,
+    "gn:latitude":13.98892,
+    "gn:longitude":-60.97202,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bocage",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072631
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"75cf5ae608da8fd17bae9dce1baa6843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1276665095,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":1276665095,
+    "wof:lastmodified":1536830182,
+    "wof:name":"Bocage",
+    "wof:parent_id":85673679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97201999999999,
+    13.98892,
+    -60.97201999999999,
+    13.98892
+],
+  "geometry": {"coordinates":[-60.97201999999999,13.98892],"type":"Point"}
+}

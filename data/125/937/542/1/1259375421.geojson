@@ -1,0 +1,66 @@
+{
+  "id": 1259375421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.96793,14.04276,-60.96793,14.04276",
+    "geom:latitude":14.04276,
+    "geom:longitude":-60.96793,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"120290000.0",
+    "gn:asciiname":"Upper Bonne Terre",
+    "gn:country_code":"LC",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072632,
+    "gn:latitude":14.04276,
+    "gn:longitude":-60.96793,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Upper Bonne Terre",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072632
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"f7a0f0f036c589a7c7a5d72eb92bdb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1259375421,
+            "region_id":85673695
+        }
+    ],
+    "wof:id":1259375421,
+    "wof:lastmodified":1537013188,
+    "wof:name":"Upper Bonne Terre",
+    "wof:parent_id":85673695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.96793,
+    14.04276,
+    -60.96793,
+    14.04276
+],
+  "geometry": {"coordinates":[-60.96793,14.04276],"type":"Point"}
+}

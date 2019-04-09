@@ -1,0 +1,66 @@
+{
+  "id": 1209113671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.99922,13.97751,-60.99922,13.97751",
+    "geom:latitude":13.97751,
+    "geom:longitude":-60.99922,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30300300.0",
+    "gn:asciiname":"Soucis",
+    "gn:country_code":"LC",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576443,
+    "gn:latitude":13.97751,
+    "gn:longitude":-60.99922,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Soucis",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sans Soucis",
+        "Sans Souci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576443
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"e4e2858041c56c8323294f3f07fb2ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632369,
+            "locality_id":1209113671
+        }
+    ],
+    "wof:id":1209113671,
+    "wof:lastmodified":1537661325,
+    "wof:name":"Soucis",
+    "wof:parent_id":85632369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.99922,
+    13.97751,
+    -60.99922,
+    13.97751
+],
+  "geometry": {"coordinates":[-60.99922,13.97751],"type":"Point"}
+}

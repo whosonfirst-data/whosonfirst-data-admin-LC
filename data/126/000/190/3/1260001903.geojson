@@ -1,0 +1,66 @@
+{
+  "id": 1260001903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91667,13.78333,-60.91667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-60.91667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"100120000.0",
+    "gn:asciiname":"Angere",
+    "gn:country_code":"LC",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576899,
+    "gn:latitude":13.78333,
+    "gn:longitude":-60.91667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Angere",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576899
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"3422227a54e16c32ca3e519fe87e6c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1260001903,
+            "region_id":85673703
+        }
+    ],
+    "wof:id":1260001903,
+    "wof:lastmodified":1536605685,
+    "wof:name":"Angere",
+    "wof:parent_id":85673703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91667,
+    13.78333,
+    -60.91667,
+    13.78333
+],
+  "geometry": {"coordinates":[-60.91667,13.78333],"type":"Point"}
+}

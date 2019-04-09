@@ -1,0 +1,237 @@
+{
+  "id": 85673679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006518,
+    "geom:area_square_m":78211122.797762,
+    "geom:bbox":"-61.0266007153,13.8790101006,-60.935588022,14.043524481",
+    "geom:latitude":13.976414,
+    "geom:longitude":-60.972827,
+    "gn:population":68400,
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Castries District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.994045,
+    "lbl:longitude":-60.968345,
+    "mps:latitude":13.994045,
+    "mps:longitude":-60.968345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:chi_x_preferred":[
+        "\u5361\u65af\u7279\u91cc\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Castries"
+    ],
+    "name:eng_x_preferred":[
+        "Castries"
+    ],
+    "name:fra_x_preferred":[
+        "District de Castries"
+    ],
+    "name:fre_x_preferred":[
+        "District de Castries"
+    ],
+    "name:ger_x_preferred":[
+        "Castries"
+    ],
+    "name:ita_x_preferred":[
+        "Quartiere di Castries"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30c8\u30ea\u30fc\u30ba\u5730\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\uc2a4\ud2b8\ub9ac\uc2a4 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Kastrio kvartalas"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0627\u0633\u062a\u0631\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Castries"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Castries"
+    ],
+    "name:swe_x_preferred":[
+        "Castries"
+    ],
+    "name:tur_x_preferred":[
+        "Castries"
+    ],
+    "name:unk_x_variant":[
+        "Quarter of Castries"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0633\u062a\u0631\u06cc\u0633 \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Castries"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u65af\u7279\u5217\u65af\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5077",
+    "ne:adm1_code":"LCA-5077",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.CN",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5077",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ST03",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.03",
+    "ne:gn_id":"3576810",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Castries",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST03",
+    "ne:gns_id":"-1313783",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Castries, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-02",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"14.00040000000",
+    "ne:longitude":"-60.97490000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Castries",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Castries_Quarter",
+    "ne:woe_id":2347025,
+    "ne:woe_label":"Castries, LC, St. Lucia",
+    "ne:woe_name":"Castries",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Castries",
+    "qs:a1_lc":"LCA-5077",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"79",
+    "statoids:area_mi":"31",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Castries",
+    "statoids:country":"LC",
+    "statoids:gec":"ST03",
+    "statoids:hasc":"LC.CS",
+    "statoids:iso":"02",
+    "statoids:name":"Castries",
+    "statoids:population":"65656",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-02",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST03",
+        "gn:id":3576810,
+        "gp:id":2347025,
+        "hasc:id":"LC.CS",
+        "iso:id":"LC-02",
+        "qs:id":1083865,
+        "unlc:id":"LC-02",
+        "wd:id":"Q1049867",
+        "wk:page":"Castries Quarter"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"b89a0f5ca6306ca4a3dca763a672b95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":85673679,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Castries",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":65656,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"CS",
+    "wof:subdivision":"LC-02",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02660071525077,
+    13.8790101006357,
+    -60.93558802196958,
+    14.04352448097006
+],
+  "geometry": {"coordinates":[[[-60.93558802196958,14.01796335622396],[-60.93676248979705,14.0093505930555],[-60.94052231155541,13.9792720180892],[-60.94678868145246,13.95420653850101],[-60.95681487310787,13.92788778529308],[-60.96057469576556,13.9003157575662],[-60.96057469576556,13.8790101006357],[-60.97185416104065,13.88276992239406],[-60.98062707907638,13.89279611404947],[-60.98062707907638,13.91159522374062],[-60.98062707907638,13.92412796353472],[-60.98188035269607,13.94543362046528],[-60.98438690083475,13.96548600467543],[-60.99190654435148,13.9780187435702],[-61.009452380423,13.98177856622789],[-61.02660071525077,13.98737213711451],[-61.00226803294333,14.02313873966114],[-60.99705970014503,14.02716705941231],[-60.98729407446194,14.03253815331317],[-60.98232988151875,14.0373395851538],[-60.97996985632375,14.04352448097006],[-60.96558779114361,14.03441607264369],[-60.95806814762688,14.0218833328496],[-60.93558802196958,14.01796335622396]]],"type":"Polygon"}
+}

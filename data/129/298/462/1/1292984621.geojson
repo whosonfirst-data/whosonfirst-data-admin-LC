@@ -1,0 +1,66 @@
+{
+  "id": 1292984621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.96863,13.78164,-60.96863,13.78164",
+    "geom:latitude":13.78164,
+    "geom:longitude":-60.96863,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90190000.0",
+    "gn:asciiname":"Grace",
+    "gn:country_code":"LC",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576699,
+    "gn:latitude":13.78164,
+    "gn:longitude":-60.96863,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Grace",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576699
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"af3b289be3219a0d2e41862bcadbfc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1292984621,
+            "region_id":85673699
+        }
+    ],
+    "wof:id":1292984621,
+    "wof:lastmodified":1537014250,
+    "wof:name":"Grace",
+    "wof:parent_id":85673699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.96863000000001,
+    13.78164,
+    -60.96863000000001,
+    13.78164
+],
+  "geometry": {"coordinates":[-60.96863000000001,13.78164],"type":"Point"}
+}

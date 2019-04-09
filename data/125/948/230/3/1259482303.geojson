@@ -1,0 +1,66 @@
+{
+  "id": 1259482303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93337,13.92849,-60.93337,13.92849",
+    "geom:latitude":13.92849,
+    "geom:longitude":-60.93337,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"110330000.0",
+    "gn:asciiname":"Morne Panache",
+    "gn:country_code":"LC",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576549,
+    "gn:latitude":13.92849,
+    "gn:longitude":-60.93337,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Morne Panache",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576549
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"b73d114b640b50667512b8464f38b371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1259482303,
+            "region_id":85673689
+        }
+    ],
+    "wof:id":1259482303,
+    "wof:lastmodified":1536859203,
+    "wof:name":"Morne Panache",
+    "wof:parent_id":85673689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93337,
+    13.92849,
+    -60.93337,
+    13.92849
+],
+  "geometry": {"coordinates":[-60.93337,13.92849],"type":"Point"}
+}

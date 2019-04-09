@@ -1,0 +1,70 @@
+{
+  "id": 1327217665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94386,13.76081,-60.94386,13.76081",
+    "geom:latitude":13.76081,
+    "geom:longitude":-60.94386,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90160000.0",
+    "gn:asciiname":"Saint Urbain",
+    "gn:country_code":"LC",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576463,
+    "gn:latitude":13.76081,
+    "gn:longitude":-60.94386,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Saint Urbain",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Urban",
+        "Saint Urbain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576463
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"45b1f3f0d30d812c834cd805dd7750d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1327217665,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":1327217665,
+    "wof:lastmodified":1537661325,
+    "wof:name":"Saint Urbain",
+    "wof:parent_id":85673717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94386,
+    13.76081,
+    -60.94386,
+    13.76081
+],
+  "geometry": {"coordinates":[-60.94386,13.76081],"type":"Point"}
+}

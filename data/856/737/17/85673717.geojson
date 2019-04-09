@@ -1,0 +1,285 @@
+{
+  "id": 85673717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003466,
+    "geom:area_square_m":41627037.052481,
+    "geom:bbox":"-60.9815779314,13.7146670591,-60.9180391102,13.8392326216",
+    "geom:latitude":13.775082,
+    "geom:longitude":-60.952216,
+    "gn:population":15132,
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Vieux Fort District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.776505,
+    "lbl:longitude":-60.944755,
+    "mps:latitude":13.776505,
+    "mps:longitude":-60.944755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0648 \u0641\u0648\u0631\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09af\u09bc\u0995\u09cd\u09b8 \u09ab\u09cb\u09b0\u09cd\u099f \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f2f\u5821\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Vieux Fort Quarter"
+    ],
+    "name:dut_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:eng_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:epo_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:fin_x_preferred":[
+        "Vieux-Fort"
+    ],
+    "name:fre_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:ger_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03b5 \u03a6\u03bf\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0a8f\u0a95\u0acd\u0ab8 \u0aab\u0acb\u0ab0\u0acd\u0a9f \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0909 \u092b\u094b\u0930\u094d\u091f \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Vieux Fort Quarter"
+    ],
+    "name:ita_x_preferred":[
+        "quartiere di Vieux Fort"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30e5\u30fc\u30fb\u30d5\u30a9\u30fc\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0caf\u0cc6\u0c95\u0ccd\u0cb8\u0ccd \u0cab\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0c95\u0ccd\u0cb5\u0cbe\u0cb0\u0ccd\u0c9f\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc678\ud3ec\ub974 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Vj\u0113fora"
+    ],
+    "name:lit_x_preferred":[
+        "Vju Fortas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0913\u0915\u094d\u0938 \u092b\u094b\u0930\u094d\u091f \u0915\u094d\u0935\u0949\u0930\u094d\u091f\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Vieux Fort Quarter"
+    ],
+    "name:nob_x_preferred":[
+        "Vieux Fort Quarter"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u0648\u06cc\u0648 \u0641\u0648\u0631\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:por_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044c\u0451-\u0424\u043e\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dba\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0dc6\u0ddc\u0dbb\u0dca\u0da7\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:swe_x_preferred":[
+        "Vieux-Fort"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0baf\u0bc2\u0bb8\u0bcd   \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0b95\u0bc1\u0b86\u0bb0\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c4d\u0c2f\u0c42 \u0c2b\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c30\u0c4d\u0c1f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e34\u0e22\u0e39 \u0e1f\u0e2d\u0e23\u0e4c\u0e17 \u0e04\u0e27\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412'\u0454-\u0424\u043e\u0440\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Vieux-Fort"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0648 \u0641\u0648\u0631\u0679 \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Vieux Fort"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5086",
+    "ne:adm1_code":"LCA-5086",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.VF",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5086",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ST10",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.10",
+    "ne:gn_id":"3576413",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Vieux-Fort",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST10",
+    "ne:gns_id":"-1314181",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Vieux-Fort, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-11",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.77620000000",
+    "ne:longitude":"-60.94380000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Vieux Fort",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Vieux_Fort_Quarter",
+    "ne:woe_id":2347032,
+    "ne:woe_label":"Vieux Fort, LC, St. Lucia",
+    "ne:woe_name":"Vieux Fort",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Vieux Fort",
+    "qs:a1_lc":"LCA-5086",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"44",
+    "statoids:area_mi":"17",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Vieux Fort",
+    "statoids:country":"LC",
+    "statoids:gec":"ST10",
+    "statoids:hasc":"LC.VF",
+    "statoids:iso":"11",
+    "statoids:name":"Vieux Fort",
+    "statoids:population":"16284",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-11",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST10",
+        "gn:id":3576413,
+        "gp:id":2347032,
+        "hasc:id":"LC.VF",
+        "iso:id":"LC-11",
+        "qs:id":1083866,
+        "unlc:id":"LC-11",
+        "wd:id":"Q1472864",
+        "wk:page":"Vieux Fort Quarter"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"b2ab0e4bdf44be4ab31c0cfd8f7ac823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":85673717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Vieux Fort",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":16284,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"VF",
+    "wof:subdivision":"LC-11",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.98157793137636,
+    13.71466705913753,
+    -60.91803911021674,
+    13.83923262158828
+],
+  "geometry": {"coordinates":[[[-60.91803911021674,13.77400074124125],[-60.92284095034955,13.77269114847775],[-60.92711341085521,13.76992422142575],[-60.93175208159323,13.76032135594585],[-60.94078528591217,13.72211334855223],[-60.94701087065511,13.7162946638677],[-60.9501033190129,13.71466705913753],[-60.95506751195609,13.71466705913753],[-60.96708776948492,13.73064064644871],[-60.96245009789368,13.74168192897787],[-60.96280173641094,13.75539581226695],[-60.96385665016425,13.77579081749229],[-60.9701861344825,13.79091125215263],[-60.97686725731802,13.81341608488447],[-60.98038363709514,13.82642669203824],[-60.98094283374473,13.83079966976902],[-60.98157793137636,13.83576620454676],[-60.97522283346694,13.83923262158828],[-60.96182796938524,13.82386604608121],[-60.94177558607441,13.80256038825138],[-60.92924284628032,13.7887743748376],[-60.91803911021674,13.77400074124125]]],"type":"Polygon"}
+}

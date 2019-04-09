@@ -1,0 +1,234 @@
+{
+  "id": 85673683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003145,
+    "geom:area_square_m":37767034.785117,
+    "geom:bbox":"-61.068104621,13.756246267,-60.9809428337,13.8357662045",
+    "geom:latitude":13.794041,
+    "geom:longitude":-61.025286,
+    "gn:population":5933,
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Choiseul District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.792167,
+    "lbl:longitude":-61.025947,
+    "mps:latitude":13.792167,
+    "mps:longitude":-61.025947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:chi_x_preferred":[
+        "\u8212\u74e6\u745f\u723e\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Choiseul"
+    ],
+    "name:eng_x_preferred":[
+        "Choiseul"
+    ],
+    "name:epo_x_preferred":[
+        "Choiseul"
+    ],
+    "name:fra_x_preferred":[
+        "District de Choiseul"
+    ],
+    "name:fre_x_preferred":[
+        "District de Choiseul"
+    ],
+    "name:ger_x_preferred":[
+        "Choiseul"
+    ],
+    "name:ita_x_preferred":[
+        "Quartiere di Choiseul"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e7\u30bc\u30fc\u30eb\u5730\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\uc544\uc8cc \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160uazelis"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u0686\u0648\u06cc\u0633\u0648\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Choiseul"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0430\u0437\u0451\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Choiseul"
+    ],
+    "name:swe_x_preferred":[
+        "Choiseul"
+    ],
+    "name:tur_x_preferred":[
+        "Choiseul"
+    ],
+    "name:unk_x_variant":[
+        "Quarter of Choiseul"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u06cc\u0633\u0648\u0644 \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Choiseul"
+    ],
+    "name:zho_x_preferred":[
+        "\u8212\u74e6\u745f\u723e\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5078",
+    "ne:adm1_code":"LCA-5078",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.CS",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5078",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ST04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.04",
+    "ne:gn_id":"3576794",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Choiseul",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST04",
+    "ne:gns_id":"-1313799",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Choiseul, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-03",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.79120000000",
+    "ne:longitude":"-61.02960000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Choiseul",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Choiseul_Quarter",
+    "ne:woe_id":2347026,
+    "ne:woe_label":"Choiseul, LC, St. Lucia",
+    "ne:woe_name":"Choiseul",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Choiseul",
+    "qs:a1_lc":"LCA-5078",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"31",
+    "statoids:area_mi":"12",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Choiseul",
+    "statoids:country":"LC",
+    "statoids:gec":"ST04",
+    "statoids:hasc":"LC.CH",
+    "statoids:iso":"03",
+    "statoids:name":"Choiseul",
+    "statoids:population":"6098",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-03",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST04",
+        "gn:id":3576794,
+        "gp:id":2347026,
+        "hasc:id":"LC.CH",
+        "iso:id":"LC-03",
+        "qs:id":229384,
+        "unlc:id":"LC-03",
+        "wd:id":"Q1075816",
+        "wk:page":"Choiseul Quarter"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"a03ed991a19f78aeac05db79c79cf1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673683
+        }
+    ],
+    "wof:id":85673683,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Choiseul",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":6098,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"CH",
+    "wof:subdivision":"LC-03",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06810462103141,
+    13.75624626695173,
+    -60.98094283374473,
+    13.83576620454676
+],
+  "geometry": {"coordinates":[[[-60.98094283374473,13.83079966976902],[-60.98565820766009,13.82783324430881],[-60.98882294981922,13.81939393158473],[-61.00113027993842,13.79196616590588],[-61.01203105868638,13.77086788454528],[-61.01892275957766,13.75624626695173],[-61.04816646960683,13.76732005457689],[-61.06493079302163,13.78693268469567],[-61.06810462103141,13.79218170821929],[-61.04955714704465,13.80632021000974],[-61.02574494197546,13.81759967618416],[-60.99190654435148,13.83013241597826],[-60.98157793137636,13.83576620454676],[-60.98094283374473,13.83079966976902]]],"type":"Polygon"}
+}

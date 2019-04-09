@@ -1,0 +1,72 @@
+{
+  "id": 421187303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.01667,14.03333,-61.01667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-61.01667,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3576408,
+    "qs:gn_pop":0,
+    "qs:name":"Vigie",
+    "qs:name_adm0":"St. Lucia",
+    "qs:name_adm1":"Castries",
+    "qs:photos":982,
+    "qs:photos_1k":199,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":982,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082676,
+    "qs:woe_adm0":23424951,
+    "qs:woe_id":162142,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576408,
+        "gp:id":162142,
+        "qs:id":1082676,
+        "wd:id":"Q16902682",
+        "wk:page":"Vigie"
+    },
+    "wof:country":"LC",
+    "wof:created":1459009508,
+    "wof:geomhash":"7393c837611c28f440acc9cd6251cbaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632369,
+            "locality_id":421187303
+        }
+    ],
+    "wof:id":421187303,
+    "wof:lastmodified":1527716249,
+    "wof:name":"Vigie",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01667,
+    14.03333,
+    -61.01667,
+    14.03333
+],
+  "geometry": {"coordinates":[-61.01667,14.03333],"type":"Point"}
+}

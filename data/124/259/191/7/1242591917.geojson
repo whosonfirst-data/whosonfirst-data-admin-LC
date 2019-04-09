@@ -1,0 +1,66 @@
+{
+  "id": 1242591917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01708,13.9506,-61.01708,13.9506",
+    "geom:latitude":13.9506,
+    "geom:longitude":-61.01708,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"40130000.0",
+    "gn:asciiname":"Jacmel",
+    "gn:country_code":"LC",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778660,
+    "gn:latitude":13.9506,
+    "gn:longitude":-61.01708,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Jacmel",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778660
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"79a57f9576dd005c1ff94fbadc9faf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1242591917,
+            "region_id":85673675
+        }
+    ],
+    "wof:id":1242591917,
+    "wof:lastmodified":1537041193,
+    "wof:name":"Jacmel",
+    "wof:parent_id":85673675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01708000000001,
+    13.9506,
+    -61.01708000000001,
+    13.9506
+],
+  "geometry": {"coordinates":[-61.01708000000001,13.9506],"type":"Point"}
+}

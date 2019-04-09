@@ -1,0 +1,64 @@
+{
+  "id": 890420183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9694,14.03151,-60.9694,14.03151",
+    "geom:latitude":14.03151,
+    "geom:longitude":-60.9694,
+    "gn:country":"LC",
+    "gn:fcode":"PPL",
+    "gn:pop":36,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Choc",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576799,
+        "gp:id":161990,
+        "qs:id":95974
+    },
+    "wof:country":"LC",
+    "wof:created":1469051322,
+    "wof:geomhash":"7a2025a20f09d1b782b1d43656acdb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":890420183,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":890420183,
+    "wof:lastmodified":1505343455,
+    "wof:name":"Choc",
+    "wof:parent_id":85673679,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9694,
+    14.03151,
+    -60.9694,
+    14.03151
+],
+  "geometry": {"coordinates":[-60.9694,14.03151],"type":"Point"}
+}

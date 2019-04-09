@@ -1,0 +1,71 @@
+{
+  "id": 1293768213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0167,13.8333,-61.0167,13.8333",
+    "geom:latitude":13.8333,
+    "geom:longitude":-61.0167,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"60050000.0",
+    "gn:asciiname":"Fond Saint Jacques",
+    "gn:country_code":"LC",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576720,
+    "gn:latitude":13.8333,
+    "gn:longitude":-61.0167,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fond Saint Jacques",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fond Saint Jaques",
+        "Pond Saint Jacques",
+        "Fond Saint Jacques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576720
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"4c0ea47278a343e56dd44c356e200e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1293768213,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":1293768213,
+    "wof:lastmodified":1537661326,
+    "wof:name":"Fond Saint Jacques",
+    "wof:parent_id":85673711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0167,
+    13.8333,
+    -61.0167,
+    13.8333
+],
+  "geometry": {"coordinates":[-61.0167,13.8333],"type":"Point"}
+}

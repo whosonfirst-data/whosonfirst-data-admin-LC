@@ -1,0 +1,294 @@
+{
+  "id": 85673689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005146,
+    "geom:area_square_m":61751348.063454,
+    "geom:bbox":"-60.9605746958,13.8978092103,-60.8829646475,13.9830318398",
+    "geom:latitude":13.940793,
+    "geom:longitude":-60.918937,
+    "gn:population":13179,
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Dennery District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.938534,
+    "lbl:longitude":-60.918198,
+    "mps:latitude":13.938534,
+    "mps:longitude":-60.918198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u062f\u064a\u0646\u064a\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09c7\u09a8\u09bf\u09b0\u09bf \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "\u767b\u5167\u91cc\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Dennery Quarter"
+    ],
+    "name:dut_x_preferred":[
+        "Dennery"
+    ],
+    "name:eng_x_preferred":[
+        "Dennery"
+    ],
+    "name:epo_x_preferred":[
+        "Dennery"
+    ],
+    "name:fin_x_preferred":[
+        "Dennery"
+    ],
+    "name:fra_x_preferred":[
+        "District de Dennery"
+    ],
+    "name:fre_x_preferred":[
+        "District de Dennery"
+    ],
+    "name:ger_x_preferred":[
+        "Dennery"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03b5\u03bd\u03b5\u03c1\u03af"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0ac7\u0aa8\u0ac7\u0ab0\u0ac0 \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e0\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0928\u0947\u0930\u0940 \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Dennery Quarter"
+    ],
+    "name:ita_x_preferred":[
+        "Quartiere di Dennery"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30ca\u30ea\u30fc\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cc6\u0ca8\u0ccd\u0ca8\u0cc6\u0cb0\u0cbf \u0c95\u0ccd\u0cb5\u0cbe\u0cb0\u0ccd\u0c9f\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\ub124\ub9ac \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Dener\u012b"
+    ],
+    "name:lit_x_preferred":[
+        "Deneris"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u0947\u0928\u0947\u0930\u0940 \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Dennery Quarter"
+    ],
+    "name:nob_x_preferred":[
+        "Dennery"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u062f\u0646\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Dennery"
+    ],
+    "name:por_x_preferred":[
+        "Dennery"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u043d\u0435\u0440\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0dd9\u0db1\u0dda\u0dbb\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Dennery"
+    ],
+    "name:swe_x_preferred":[
+        "Dennery"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc6\u0ba9\u0bcd\u0ba9\u0bc7\u0bb0\u0bbf  \u0b95\u0bc1\u0b86\u0bb0\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c46\u0c28\u0c30\u0c40 \u0c15\u0c4d\u0c35\u0c3e\u0c30\u0c4d\u0c1f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e14\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Dennery"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0435\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Quarter of Dennery"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0646\u0646\u06cc\u0631\u06cc \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Dennery"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u5167\u91cc\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5080",
+    "ne:adm1_code":"LCA-5080",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.DE",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5080",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ST05",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.05",
+    "ne:gn_id":"3576764",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Dennery",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST05",
+    "ne:gns_id":"-1313829",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dennery, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-05",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.94250000000",
+    "ne:longitude":"-60.90520000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Dennery",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Dennery_Quarter",
+    "ne:woe_id":2347027,
+    "ne:woe_label":"Dennery, LC, St. Lucia",
+    "ne:woe_name":"Dennery",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Dennery",
+    "qs:a1_lc":"LCA-5080",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"70",
+    "statoids:area_mi":"27",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Dennery",
+    "statoids:country":"LC",
+    "statoids:gec":"ST05",
+    "statoids:hasc":"LC.DE",
+    "statoids:iso":"05",
+    "statoids:name":"Dennery",
+    "statoids:population":"12599",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-05",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST05",
+        "gn:id":3576764,
+        "gp:id":2347027,
+        "hasc:id":"LC.DE",
+        "iso:id":"LC-05",
+        "qs:id":222839,
+        "unlc:id":"LC-05",
+        "wd:id":"Q1188890",
+        "wk:page":"Dennery Quarter"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"5135f1d48c203a7547377e319861c085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673689
+        }
+    ],
+    "wof:id":85673689,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Dennery",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":12599,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"DE",
+    "wof:subdivision":"LC-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.96057469576556,
+    13.89780921032684,
+    -60.88296464750044,
+    13.98303183984757
+],
+  "geometry": {"coordinates":[[[-60.88296464750044,13.98061758013728],[-60.88304602805169,13.9544131532445],[-60.890225359113,13.90847513741772],[-60.90668391483075,13.90532885384357],[-60.92172320276353,13.89780921032684],[-60.93926903793573,13.90407558022389],[-60.96057469576556,13.9003157575662],[-60.95681487310787,13.92788778529308],[-60.94678868145246,13.95420653850101],[-60.94052231155541,13.9792720180892],[-60.92046992824453,13.98177856622789],[-60.90167081855338,13.98303183984757],[-60.88296464750044,13.98061758013728]]],"type":"Polygon"}
+}

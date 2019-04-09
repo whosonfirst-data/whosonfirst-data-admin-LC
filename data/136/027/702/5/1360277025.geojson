@@ -1,0 +1,66 @@
+{
+  "id": 1360277025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.00245,13.77287,-61.00245,13.77287",
+    "geom:latitude":13.77287,
+    "geom:longitude":-61.00245,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"80010000.0",
+    "gn:asciiname":"Annus",
+    "gn:country_code":"LC",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576898,
+    "gn:latitude":13.77287,
+    "gn:longitude":-61.00245,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Annus",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576898
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"ff856729ea1fac98c038ae495da43a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1360277025,
+            "region_id":85673699
+        }
+    ],
+    "wof:id":1360277025,
+    "wof:lastmodified":1536668796,
+    "wof:name":"Annus",
+    "wof:parent_id":85673699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.00245,
+    13.77287,
+    -61.00245,
+    13.77287
+],
+  "geometry": {"coordinates":[-61.00245,13.77287],"type":"Point"}
+}

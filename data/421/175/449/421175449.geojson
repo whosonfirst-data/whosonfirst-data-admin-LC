@@ -1,0 +1,101 @@
+{
+  "id": 421175449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-60.903396,13.8292,-60.903396,13.8292",
+    "geom:latitude":13.8292,
+    "geom:longitude":-60.903396,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0437\u0435\u0439 \u0410\u0440\u0430\u043d\u0436\u044d\u0440\u044b"
+    ],
+    "name:cat_x_preferred":[
+        "Mus\u00e9e de l'Orangerie"
+    ],
+    "name:ces_x_preferred":[
+        "Mus\u00e9e de l'Orangerie"
+    ],
+    "name:deu_x_preferred":[
+        "Mus\u00e9e de l\u2019Orangerie"
+    ],
+    "name:epo_x_preferred":[
+        "Muzeo de la Oran\u011derio"
+    ],
+    "name:fra_x_preferred":[
+        "Mus\u00e9e de l'Orangerie"
+    ],
+    "name:glg_x_preferred":[
+        "Museo de l'Orangerie"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d4\u05d0\u05d5\u05e8\u05e0\u05d6'\u05e8\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Museo dell'Orangerie"
+    ],
+    "name:spa_x_preferred":[
+        "Museo de la Orangerie"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"L'Orangerie",
+    "qs:name_adm0":"St. Lucia",
+    "qs:name_adm1":"Praslin",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":966507,
+    "qs:woe_adm0":23424951,
+    "qs:woe_id":162061,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":162061,
+        "qs:id":966507
+    },
+    "wof:country":"LC",
+    "wof:created":1459009067,
+    "wof:geomhash":"fdec047ab827414be598b795a99b25fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":421175449,
+            "region_id":85673703
+        }
+    ],
+    "wof:id":421175449,
+    "wof:lastmodified":1467245413,
+    "wof:name":"L'Orangerie",
+    "wof:parent_id":85673703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.903396,
+    13.8292,
+    -60.903396,
+    13.8292
+],
+  "geometry": {"coordinates":[-60.903396,13.8292],"type":"Point"}
+}

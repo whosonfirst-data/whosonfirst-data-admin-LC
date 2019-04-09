@@ -1,0 +1,121 @@
+{
+  "id": 421202879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95,13.71667,-60.95,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-60.95,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:dut_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03b5 \u03a6\u03bf\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:fra_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:fre_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:ger_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b9\u03b5 \u03a6\u03bf\u03c1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d5 \u05e4\u05d5\u05e8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30e5\u30fc\u30d5\u30a9\u30fc\u30c8"
+    ],
+    "name:nds_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:pol_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:spa_x_preferred":[
+        "Vieux Fort"
+    ],
+    "qs:gn_country":"LC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3576414,
+    "qs:gn_pop":4574,
+    "qs:name":"Vieux Fort",
+    "qs:name_adm0":"St. Lucia",
+    "qs:name_adm1":"Vieux Fort",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":228624,
+    "qs:woe_adm0":23424951,
+    "qs:woe_id":162139,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":13.728,
+    "wd:longitude":-60.954,
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576414,
+        "gp:id":162139,
+        "qs:id":228624,
+        "wd:id":"Q3494579",
+        "wk:page":"Vieux Fort, Saint Lucia"
+    },
+    "wof:country":"LC",
+    "wof:created":1459010132,
+    "wof:geomhash":"0707532c8eb1114fea0f6a2fdf3152c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":421202879,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":421202879,
+    "wof:lastmodified":1553816389,
+    "wof:name":"Vieux Fort",
+    "wof:parent_id":85673717,
+    "wof:placetype":"locality",
+    "wof:population":4574,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95,
+    13.71667,
+    -60.95,
+    13.71667
+],
+  "geometry": {"coordinates":[-60.95,13.71667],"type":"Point"}
+}

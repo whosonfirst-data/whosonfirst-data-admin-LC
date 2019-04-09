@@ -1,0 +1,66 @@
+{
+  "id": 1259705803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93824,14.05133,-60.93824,14.05133",
+    "geom:latitude":14.05133,
+    "geom:longitude":-60.93824,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"120330700.0",
+    "gn:asciiname":"La Feuillet",
+    "gn:country_code":"LC",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576650,
+    "gn:latitude":14.05133,
+    "gn:longitude":-60.93824,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"La Feuillet",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576650
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"9b5b95c88a1a470fc95fe555508e150a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1259705803,
+            "region_id":85673695
+        }
+    ],
+    "wof:id":1259705803,
+    "wof:lastmodified":1537033526,
+    "wof:name":"La Feuillet",
+    "wof:parent_id":85673695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93824,
+    14.05133,
+    -60.93824,
+    14.05133
+],
+  "geometry": {"coordinates":[-60.93824,14.05133],"type":"Point"}
+}

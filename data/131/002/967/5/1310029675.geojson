@@ -1,0 +1,66 @@
+{
+  "id": 1310029675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0355,13.78586,-61.0355,13.78586",
+    "geom:latitude":13.78586,
+    "geom:longitude":-61.0355,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"70040000.0",
+    "gn:asciiname":"Cafeiere",
+    "gn:country_code":"LC",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576833,
+    "gn:latitude":13.78586,
+    "gn:longitude":-61.0355,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Caf\u00e9i\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576833
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"81298e6736360ee0be3ad80726805486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1310029675,
+            "region_id":85673683
+        }
+    ],
+    "wof:id":1310029675,
+    "wof:lastmodified":1536605487,
+    "wof:name":"Cafeiere",
+    "wof:parent_id":85673683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0355,
+    13.78586,
+    -61.0355,
+    13.78586
+],
+  "geometry": {"coordinates":[-61.0355,13.78586],"type":"Point"}
+}

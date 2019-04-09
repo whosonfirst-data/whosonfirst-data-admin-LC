@@ -1,0 +1,66 @@
+{
+  "id": 1276235773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01368,13.96735,-61.01368,13.96735",
+    "geom:latitude":13.96735,
+    "geom:longitude":-61.01368,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30610000.0",
+    "gn:asciiname":"Marigot",
+    "gn:country_code":"LC",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576588,
+    "gn:latitude":13.96735,
+    "gn:longitude":-61.01368,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Marigot",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576588
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"743f89a1bedf743e2b8c08d6814b1b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1276235773,
+            "region_id":85673675
+        }
+    ],
+    "wof:id":1276235773,
+    "wof:lastmodified":1536909640,
+    "wof:name":"Marigot",
+    "wof:parent_id":85673675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01368000000001,
+    13.96735,
+    -61.01368000000001,
+    13.96735
+],
+  "geometry": {"coordinates":[-61.01368000000001,13.96735],"type":"Point"}
+}

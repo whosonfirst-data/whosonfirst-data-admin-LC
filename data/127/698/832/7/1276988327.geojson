@@ -1,0 +1,66 @@
+{
+  "id": 1276988327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97284,13.98842,-60.97284,13.98842",
+    "geom:latitude":13.98842,
+    "geom:longitude":-60.97284,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30870000.0",
+    "gn:asciiname":"Trois Piton",
+    "gn:country_code":"LC",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576430,
+    "gn:latitude":13.98842,
+    "gn:longitude":-60.97284,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Trois Piton",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576430
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"413dd6ddc1f66c0793568a2dfa729c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1276988327,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":1276988327,
+    "wof:lastmodified":1536895510,
+    "wof:name":"Trois Piton",
+    "wof:parent_id":85673679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97284000000001,
+    13.98842,
+    -60.97284000000001,
+    13.98842
+],
+  "geometry": {"coordinates":[-60.97284000000001,13.98842],"type":"Point"}
+}

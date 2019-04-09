@@ -1,0 +1,290 @@
+{
+  "id": 85673675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006485,
+    "geom:area_square_m":77836107.897338,
+    "geom:bbox":"-61.0668839182,13.8664773608,-60.9806270791,13.9873721371",
+    "geom:latitude":13.927987,
+    "geom:longitude":-61.013986,
+    "gn:id":"",
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Anse-la-Raye District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.928399,
+    "lbl:longitude":-61.014807,
+    "mps:latitude":13.928399,
+    "mps:longitude":-61.014807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0623\u0646\u0633 \u0644\u0627 \u0631\u0627\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Anse la Raye auzoa"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09b8 \u09b2\u09be \u09b0\u09be\u09af\u09bc\u09c7 \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "\u6602\u65af\u62c9\u96f7\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Anse la Raye Quarter"
+    ],
+    "name:dut_x_preferred":[
+        "Anse-la-Raye"
+    ],
+    "name:eng_x_preferred":[
+        "Ansela-Raye"
+    ],
+    "name:epo_x_preferred":[
+        "Anse La Raye"
+    ],
+    "name:fin_x_preferred":[
+        "Anse-la-Raye"
+    ],
+    "name:fre_x_preferred":[
+        "District d'Anse-la-Raye"
+    ],
+    "name:ger_x_preferred":[
+        "Anse-la-Raye"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03bd\u03c2 \u03bb\u03b1 \u03a1\u03ac\u03b9\u03b3"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0acd\u0ab8\u0ac7 \u0ab2\u0abe \u0ab0\u0ac7\u0aaf \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0938 \u0932\u093e \u0930\u093e\u090f \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Anse la Raye Quarter"
+    ],
+    "name:ita_x_preferred":[
+        "quartiere di Anse-la-Raye"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b9\u30fb\u30e9\u30fb\u30ec\u30a4\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0ca8\u0ccd\u0cb8\u0cc6 \u0cb2\u0cbe \u0cb0\u0cc7\u0caf\u0ccd \u0c95\u0ccd\u0cb5\u0cbe\u0cb0\u0ccd\u0c9f\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc559\uc2a4\ub77c\ub808 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Anslavua"
+    ],
+    "name:lit_x_preferred":[
+        "Ans Lavua"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u043d\u0441 \u043b\u0430 \u0420\u0435\u0458"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902. \u0932\u093e \u0930\u093e\u092f \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Anse la Raye Quarter"
+    ],
+    "name:nob_x_preferred":[
+        "Anse la Raye Quarter"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u0622\u0646\u0633\u0647 \u0644\u0627 \u0631\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Anse la Raye"
+    ],
+    "name:por_x_preferred":[
+        "Anse-La-Raye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u041b\u0430\u0432\u0443\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0dc3\u0dda \u0dbd\u0dcf \u0dbb\u0dba\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Anse La Raye"
+    ],
+    "name:swe_x_preferred":[
+        "Anse la Raye Quarter"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba9\u0bcd\u0bb8\u0bc7  \u0bb2\u0bbe  \u0bb0\u0bc7  \u0b95\u0bc1\u0b86\u0bb0\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c28\u0c4d\u0c38\u0c4d \u0c32\u0c3e \u0c30\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e19\u0e0b\u0e35\u0e48 \u0e25\u0e32 \u0e40\u0e23\u0e22\u0e4c \u0e04\u0e27\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Anse la Raye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u041b\u0430\u0432\u0443\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Quarter of Anse-la-Raye"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0633\u06d2 \u0644\u0627 \u0631\u0627\u0626\u06d2 \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Anse la Raye"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5076",
+    "ne:adm1_code":"LCA-5076",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.AR",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5076",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SF01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.01",
+    "ne:gn_id":"3576891",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Anse-la-Raye",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST01",
+    "ne:gns_id":"-1313701",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Anse-la-Raye, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-01",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.93500000000",
+    "ne:longitude":"-61.01890000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Anse-la-Raye",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Anse_la_Raye_Quarter",
+    "ne:woe_id":2347023,
+    "ne:woe_label":"Ansela-Raye, LC, St. Lucia",
+    "ne:woe_name":"Ansela-Raye",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Anse-la-Raye",
+    "qs:a1_lc":"LCA-5076",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"47",
+    "statoids:area_mi":"18",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Anse-la-Raye",
+    "statoids:country":"LC",
+    "statoids:gec":"ST01",
+    "statoids:hasc":"LC.AR",
+    "statoids:iso":"01",
+    "statoids:name":"Anse-la-Raye",
+    "statoids:population":"6247",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-01",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST01",
+        "gn:id":3576891,
+        "gp:id":2347023,
+        "hasc:id":"LC.AR",
+        "iso:id":"LC-01",
+        "qs:id":900758,
+        "unlc:id":"LC-01",
+        "wd:id":"Q1676934"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"dbb2a6f03d64a7d0a6868be60709be9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673675
+        }
+    ],
+    "wof:id":85673675,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Anse-la-Raye",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":6247,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"AR",
+    "wof:subdivision":"LC-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06688391815828,
+    13.8664773608416,
+    -60.98062707907638,
+    13.98737213711451
+],
+  "geometry": {"coordinates":[[[-60.98062707907638,13.89279611404947],[-60.98313362631575,13.87399700435833],[-60.9906532707318,13.8664773608416],[-61.01070565404268,13.87149045711897],[-61.02449166745646,13.89404938856848],[-61.04078422900892,13.90532885384357],[-61.0558235169417,13.90908867560194],[-61.06688391815828,13.90900299719061],[-61.06493079302163,13.91730377834676],[-61.05947831856952,13.93121979415821],[-61.03555253811908,13.96491120029174],[-61.02660071525077,13.98737213711451],[-61.009452380423,13.98177856622789],[-60.99190654435148,13.9780187435702],[-60.98438690083475,13.96548600467543],[-60.98188035269607,13.94543362046528],[-60.98062707907638,13.92412796353472],[-60.98062707907638,13.91159522374062],[-60.98062707907638,13.89279611404947]]],"type":"Polygon"}
+}

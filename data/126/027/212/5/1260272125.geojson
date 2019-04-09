@@ -1,0 +1,66 @@
+{
+  "id": 1260272125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9641,13.7815,-60.9641,13.7815",
+    "geom:latitude":13.7815,
+    "geom:longitude":-60.9641,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90190000.0",
+    "gn:asciiname":"Carriee",
+    "gn:country_code":"LC",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576815,
+    "gn:latitude":13.7815,
+    "gn:longitude":-60.9641,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Carri\u00e8e",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576815
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"815e8b53ce8a355e91085ad2f75f1c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1260272125,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":1260272125,
+    "wof:lastmodified":1536727533,
+    "wof:name":"Carriee",
+    "wof:parent_id":85673717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9641,
+    13.7815,
+    -60.9641,
+    13.7815
+],
+  "geometry": {"coordinates":[-60.9641,13.7815],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344248849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02962,13.76535,-61.02962,13.76535",
+    "geom:latitude":13.76535,
+    "geom:longitude":-61.02962,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"80080000.0",
+    "gn:asciiname":"Bongalo",
+    "gn:country_code":"LC",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576844,
+    "gn:latitude":13.76535,
+    "gn:longitude":-61.02962,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bongalo",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576844,
+        "wk:page":"Bongalo"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"387344c5f97418c633dfc3de246b7da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1344248849,
+            "region_id":85673683
+        }
+    ],
+    "wof:id":1344248849,
+    "wof:lastmodified":1537567957,
+    "wof:name":"Bongalo",
+    "wof:parent_id":85673683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02962,
+    13.76535,
+    -61.02962,
+    13.76535
+],
+  "geometry": {"coordinates":[-61.02962,13.76535],"type":"Point"}
+}

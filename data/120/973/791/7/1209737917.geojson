@@ -1,0 +1,66 @@
+{
+  "id": 1209737917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9164,13.79775,-60.9164,13.79775",
+    "geom:latitude":13.79775,
+    "geom:longitude":-60.9164,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"100030000.0",
+    "gn:asciiname":"Anse Ger",
+    "gn:country_code":"LC",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576895,
+    "gn:latitude":13.79775,
+    "gn:longitude":-60.9164,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Anse Ger",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576895
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"a2d0790efc5e82de7d932889d3e40cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1209737917,
+            "region_id":85673703
+        }
+    ],
+    "wof:id":1209737917,
+    "wof:lastmodified":1536371674,
+    "wof:name":"Anse Ger",
+    "wof:parent_id":85673703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9164,
+    13.79775,
+    -60.9164,
+    13.79775
+],
+  "geometry": {"coordinates":[-60.9164,13.79775],"type":"Point"}
+}

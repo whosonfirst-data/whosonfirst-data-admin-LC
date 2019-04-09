@@ -1,0 +1,66 @@
+{
+  "id": 1276154913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.92693,13.9412,-60.92693,13.9412",
+    "geom:latitude":13.9412,
+    "geom:longitude":-60.92693,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"110240000.0",
+    "gn:asciiname":"Grande Ravine",
+    "gn:country_code":"LC",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576693,
+    "gn:latitude":13.9412,
+    "gn:longitude":-60.92693,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Grande Ravine",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576693
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"2e91b041cf1bcb62fceb1445e3183584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1276154913,
+            "region_id":85673689
+        }
+    ],
+    "wof:id":1276154913,
+    "wof:lastmodified":1537017122,
+    "wof:name":"Grande Ravine",
+    "wof:parent_id":85673689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.92693000000001,
+    13.9412,
+    -60.92693000000001,
+    13.9412
+],
+  "geometry": {"coordinates":[-60.92693000000001,13.9412],"type":"Point"}
+}

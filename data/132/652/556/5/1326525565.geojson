@@ -1,0 +1,66 @@
+{
+  "id": 1326525565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97529,13.75263,-60.97529,13.75263",
+    "geom:latitude":13.75263,
+    "geom:longitude":-60.97529,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90230000.0",
+    "gn:asciiname":"Cantonement",
+    "gn:country_code":"LC",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576821,
+    "gn:latitude":13.75263,
+    "gn:longitude":-60.97529,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Cantonement",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576821
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"767f63361757cd753f9aa31d5fb4a4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1326525565,
+            "region_id":85673699
+        }
+    ],
+    "wof:id":1326525565,
+    "wof:lastmodified":1536992890,
+    "wof:name":"Cantonement",
+    "wof:parent_id":85673699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97529,
+    13.75263,
+    -60.97529,
+    13.75263
+],
+  "geometry": {"coordinates":[-60.97529,13.75263],"type":"Point"}
+}

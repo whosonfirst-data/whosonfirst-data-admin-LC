@@ -1,0 +1,246 @@
+{
+  "id": 85673711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007819,
+    "geom:area_square_m":93870700.547006,
+    "geom:bbox":"-61.0785212875,13.7921817082,-60.9605746958,13.9090886756",
+    "geom:latitude":13.854848,
+    "geom:longitude":-61.030443,
+    "gn:population":7935,
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Soufri\u00e8re District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.849365,
+    "lbl:longitude":-61.036251,
+    "mps:latitude":13.849365,
+    "mps:longitude":-61.036251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:chi_x_preferred":[
+        "\u8607\u5f17\u91cc\u8036\u723e\u5340"
+    ],
+    "name:deu_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:dut_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:eng_x_preferred":[
+        "Soufriere"
+    ],
+    "name:epo_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0648\u0641\u0631\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "District de Soufri\u00e8re"
+    ],
+    "name:fre_x_preferred":[
+        "District de Soufri\u00e8re"
+    ],
+    "name:ger_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e4\u05e8\u05d9\u05d9\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Quartiere di Soufri\u00e8re"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d5\u30ec"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\ud504\ub9ac\uc5d0\ub974 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Sufrieras"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0443\u0444\u0440\u0438\u0435\u0440"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u0444\u0440\u0438\u0435\u0440"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0648\u0641\u0631\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:por_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0444\u0440\u0438\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:swe_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:tur_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "name:unk_x_variant":[
+        "Quarter of Soufri\u00e8re"
+    ],
+    "name:vie_x_preferred":[
+        "Soufri\u00e8re"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5085",
+    "ne:adm1_code":"LCA-5085",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.CO",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5085",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ST09",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.09",
+    "ne:gn_id":"3576441",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Soufriere",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST09",
+    "ne:gns_id":"-1314153",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Soufriere, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-10",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.85450000000",
+    "ne:longitude":"-61.04470000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Soufri\u00e8re",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Soufri%C3%A8re_Quarter",
+    "ne:woe_id":2347031,
+    "ne:woe_label":"Soufriere, LC, St. Lucia",
+    "ne:woe_name":"Soufriere",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Soufri\u00e8re",
+    "qs:a1_lc":"LCA-5085",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"51",
+    "statoids:area_mi":"20",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Soufri\u00e8re",
+    "statoids:country":"LC",
+    "statoids:gec":"ST09",
+    "statoids:hasc":"LC.CO",
+    "statoids:iso":"10",
+    "statoids:name":"Soufri\u00e8re",
+    "statoids:population":"8472",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-10",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST09",
+        "gn:id":3576441,
+        "gp:id":2347031,
+        "hasc:id":"LC.CO",
+        "iso:id":"LC-10",
+        "qs:id":318870,
+        "unlc:id":"LC-10",
+        "wd:id":"Q1472841",
+        "wk:page":"Soufri\u00e8re Quarter"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"9cc2abab033c3f015bd056e79c49f465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":85673711,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Soufri\u00e8re",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":8472,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"CO",
+    "wof:subdivision":"LC-10",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.07852128752734,
+    13.79218170821929,
+    -60.96057469576556,
+    13.90908867560194
+],
+  "geometry": {"coordinates":[[[-60.98062707907638,13.89279611404947],[-60.97185416104065,13.88276992239406],[-60.96057469576556,13.8790101006357],[-60.96057469576556,13.86898390898028],[-60.96433451752392,13.84517170301172],[-60.97522283346694,13.83923262158828],[-60.98157793137636,13.83576620454676],[-60.99190654435148,13.83013241597826],[-61.02574494197546,13.81759967618416],[-61.04955714704465,13.80632021000974],[-61.06810462103141,13.79218170821929],[-61.07420813719574,13.79873281516734],[-61.07811438656967,13.80630117405997],[-61.07115637866389,13.82196686407957],[-61.070057746168,13.83209869999507],[-61.07115637866389,13.85179271066511],[-61.0727432926688,13.85822174723592],[-61.07559160117142,13.86326731983098],[-61.07811438656967,13.86961497585048],[-61.07852128752734,13.8797875024913],[-61.07591712067853,13.89036692919046],[-61.06688391815828,13.90900299719061],[-61.0558235169417,13.90908867560194],[-61.04078422900892,13.90532885384357],[-61.02449166745646,13.89404938856848],[-61.01070565404268,13.87149045711897],[-60.9906532707318,13.8664773608416],[-60.98313362631575,13.87399700435833],[-60.98062707907638,13.89279611404947]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225829545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06087,13.8413,-61.06087,13.8413",
+    "geom:latitude":13.8413,
+    "geom:longitude":-61.06087,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"60260000.0",
+    "gn:asciiname":"Malgretoute",
+    "gn:country_code":"LC",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576599,
+    "gn:latitude":13.8413,
+    "gn:longitude":-61.06087,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Malgretoute",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malgr\u00e9 Tout",
+        "Malgretoute"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576599
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"90ccc11d2a6595254a7f6ab79646593e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1225829545,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":1225829545,
+    "wof:lastmodified":1537661325,
+    "wof:name":"Malgretoute",
+    "wof:parent_id":85673711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06087,
+    13.8413,
+    -61.06087,
+    13.8413
+],
+  "geometry": {"coordinates":[-61.06087,13.8413],"type":"Point"}
+}

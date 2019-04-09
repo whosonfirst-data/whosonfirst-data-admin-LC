@@ -1,0 +1,106 @@
+{
+  "id": 421174871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.041412,13.931734,-61.041412,13.931734",
+    "geom:latitude":13.931734,
+    "geom:longitude":-61.041412,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Anse La Raye"
+    ],
+    "name:eng_x_preferred":[
+        "Anse La Raye"
+    ],
+    "name:fre_x_preferred":[
+        "Anse-la-Raye"
+    ],
+    "name:ger_x_preferred":[
+        "Anse-la-Raye"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03c2 \u03bb\u03b1 \u03a1\u03ac\u03b9\u03b3"
+    ],
+    "name:pol_x_preferred":[
+        "Anse la Raye"
+    ],
+    "name:spa_x_preferred":[
+        "Anse La Raye"
+    ],
+    "name:swe_x_preferred":[
+        "Anse La Raye"
+    ],
+    "name:unk_x_variant":[
+        "La Raye"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Anse la Raye",
+    "qs:name_adm0":"St. Lucia",
+    "qs:name_adm1":"Ansela-Raye",
+    "qs:photos":3108,
+    "qs:photos_1k":630,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3108,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":902638,
+    "qs:woe_adm0":23424951,
+    "qs:woe_id":161969,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576894,
+        "gp:id":161969,
+        "qs:id":902638,
+        "qs_pg:id":149029,
+        "wd:id":"Q569439"
+    },
+    "wof:country":"LC",
+    "wof:created":1459009046,
+    "wof:geomhash":"f5193c9e2ea80185a15a719d2e93f852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":421174871,
+            "region_id":85673675
+        }
+    ],
+    "wof:id":421174871,
+    "wof:lastmodified":1514470151,
+    "wof:name":"Anse la Raye",
+    "wof:parent_id":85673675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.041412,
+    13.931734,
+    -61.041412,
+    13.931734
+],
+  "geometry": {"coordinates":[-61.041412,13.931734],"type":"Point"}
+}

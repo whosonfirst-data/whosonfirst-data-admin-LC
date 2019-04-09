@@ -1,0 +1,66 @@
+{
+  "id": 1226537615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.90897,13.99345,-60.90897,13.99345",
+    "geom:latitude":13.99345,
+    "geom:longitude":-60.90897,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"120190000.0",
+    "gn:asciiname":"Desbarra",
+    "gn:country_code":"LC",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576755,
+    "gn:latitude":13.99345,
+    "gn:longitude":-60.90897,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Desbarra",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576755
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"93a19328b99bd234c46ed9c1c87da3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1226537615,
+            "region_id":85673687
+        }
+    ],
+    "wof:id":1226537615,
+    "wof:lastmodified":1537009106,
+    "wof:name":"Desbarra",
+    "wof:parent_id":85673687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.90897,
+    13.99345,
+    -60.90897,
+    13.99345
+],
+  "geometry": {"coordinates":[-60.90897,13.99345],"type":"Point"}
+}

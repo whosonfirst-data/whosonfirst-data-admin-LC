@@ -1,0 +1,66 @@
+{
+  "id": 1327128103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97677,13.74543,-60.97677,13.74543",
+    "geom:latitude":13.74543,
+    "geom:longitude":-60.97677,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90060000.0",
+    "gn:asciiname":"Black Bay",
+    "gn:country_code":"LC",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576852,
+    "gn:latitude":13.74543,
+    "gn:longitude":-60.97677,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Black Bay",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576852
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"1e1913753e18aa69d510e826c15b3107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1327128103,
+            "region_id":85673699
+        }
+    ],
+    "wof:id":1327128103,
+    "wof:lastmodified":1536620223,
+    "wof:name":"Black Bay",
+    "wof:parent_id":85673699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97677,
+    13.74543,
+    -60.97677,
+    13.74543
+],
+  "geometry": {"coordinates":[-60.97677,13.74543],"type":"Point"}
+}

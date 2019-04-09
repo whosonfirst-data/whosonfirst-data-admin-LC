@@ -1,0 +1,66 @@
+{
+  "id": 1309894867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95671,13.79127,-60.95671,13.79127",
+    "geom:latitude":13.79127,
+    "geom:longitude":-60.95671,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90050000.0",
+    "gn:asciiname":"Belle Vue",
+    "gn:country_code":"LC",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576864,
+    "gn:latitude":13.79127,
+    "gn:longitude":-60.95671,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Belle Vue",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576864
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"49fc761f71edfe18e16cac9d0609b845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1309894867,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":1309894867,
+    "wof:lastmodified":1536802670,
+    "wof:name":"Belle Vue",
+    "wof:parent_id":85673717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95671,
+    13.79127,
+    -60.95671,
+    13.79127
+],
+  "geometry": {"coordinates":[-60.95671,13.79127],"type":"Point"}
+}

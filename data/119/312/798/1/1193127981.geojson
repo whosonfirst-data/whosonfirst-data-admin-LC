@@ -1,0 +1,65 @@
+{
+  "id": 1193127981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95155,13.7965,-60.95155,13.7965",
+    "geom:latitude":13.7965,
+    "geom:longitude":-60.95155,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"De Mailly",
+    "gn:country_code":"LC",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576766,
+    "gn:latitude":13.7965,
+    "gn:longitude":-60.95155,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"De Mailly",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576766
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"eff15360acd29c7fa984793d0fa0d8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1193127981,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":1193127981,
+    "wof:lastmodified":1536378879,
+    "wof:name":"De Mailly",
+    "wof:parent_id":85673717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95155,
+    13.7965,
+    -60.95155,
+    13.7965
+],
+  "geometry": {"coordinates":[-60.95155,13.7965],"type":"Point"}
+}

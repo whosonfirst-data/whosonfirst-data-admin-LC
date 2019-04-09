@@ -1,0 +1,65 @@
+{
+  "id": 1242573159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94736,13.71331,-60.94736,13.71331",
+    "geom:latitude":13.71331,
+    "geom:longitude":-60.94736,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90350000.0",
+    "gn:asciiname":"Moule a Chique",
+    "gn:country_code":"LC",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576543,
+    "gn:latitude":13.71331,
+    "gn:longitude":-60.94736,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Moule \u00e0 Chique",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576543
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"415291f80427e498ce0c34554080af5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1242573159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242573159,
+    "wof:lastmodified":1537067145,
+    "wof:name":"Moule a Chique",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94736,
+    13.71331,
+    -60.94736,
+    13.71331
+],
+  "geometry": {"coordinates":[-60.94736,13.71331],"type":"Point"}
+}

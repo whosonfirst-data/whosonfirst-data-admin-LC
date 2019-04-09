@@ -1,0 +1,66 @@
+{
+  "id": 1242972501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97888,13.9471,-60.97888,13.9471",
+    "geom:latitude":13.9471,
+    "geom:longitude":-60.97888,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30110000.0",
+    "gn:asciiname":"Belair",
+    "gn:country_code":"LC",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576866,
+    "gn:latitude":13.9471,
+    "gn:longitude":-60.97888,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Belair",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576866
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"b21d8b59898f13279d05a1ce6c395df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1242972501,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":1242972501,
+    "wof:lastmodified":1536991037,
+    "wof:name":"Belair",
+    "wof:parent_id":85673679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97888,
+    13.9471,
+    -60.97888,
+    13.9471
+],
+  "geometry": {"coordinates":[-60.97888,13.9471],"type":"Point"}
+}

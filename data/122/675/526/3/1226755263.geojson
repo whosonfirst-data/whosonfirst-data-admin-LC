@@ -1,0 +1,66 @@
+{
+  "id": 1226755263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94098,13.9998,-60.94098,13.9998",
+    "geom:latitude":13.9998,
+    "geom:longitude":-60.94098,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30740000.0",
+    "gn:asciiname":"Resinard",
+    "gn:country_code":"LC",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576493,
+    "gn:latitude":13.9998,
+    "gn:longitude":-60.94098,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Resinard",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576493
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"6f12a8912df4b441e251b763efd47442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1226755263,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":1226755263,
+    "wof:lastmodified":1536702034,
+    "wof:name":"Resinard",
+    "wof:parent_id":85673679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94098,
+    13.9998,
+    -60.94098,
+    13.9998
+],
+  "geometry": {"coordinates":[-60.94098,13.9998],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310491201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05057,13.82183,-61.05057,13.82183",
+    "geom:latitude":13.82183,
+    "geom:longitude":-61.05057,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"60200000.0",
+    "gn:asciiname":"Fond Doux",
+    "gn:country_code":"LC",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576722,
+    "gn:latitude":13.82183,
+    "gn:longitude":-61.05057,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fond Doux",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576722
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"8176ee163375b05945d337c1047a1784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1310491201,
+            "region_id":85673711
+        }
+    ],
+    "wof:id":1310491201,
+    "wof:lastmodified":1536938306,
+    "wof:name":"Fond Doux",
+    "wof:parent_id":85673711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05056999999999,
+    13.82183,
+    -61.05056999999999,
+    13.82183
+],
+  "geometry": {"coordinates":[-61.05056999999999,13.82183],"type":"Point"}
+}

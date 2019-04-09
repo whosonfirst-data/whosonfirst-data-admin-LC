@@ -1,0 +1,60 @@
+{
+  "id": 890441881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.88786,13.89958,-60.88786,13.89958",
+    "geom:latitude":13.89958,
+    "geom:longitude":-60.88786,
+    "gn:country":"LC",
+    "gn:fcode":"PPL",
+    "gn:pop":2870,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Dennery",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576765,
+        "gp:id":162022,
+        "qs:id":149027
+    },
+    "wof:country":"LC",
+    "wof:created":1469052341,
+    "wof:geomhash":"df0e9e922bf0ee15839bdad4a8686b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632369,
+            "locality_id":890441881
+        }
+    ],
+    "wof:id":890441881,
+    "wof:lastmodified":1505343584,
+    "wof:name":"Dennery",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2870,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.88786,
+    13.89958,
+    -60.88786,
+    13.89958
+],
+  "geometry": {"coordinates":[-60.88786,13.89958],"type":"Point"}
+}

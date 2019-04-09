@@ -1,0 +1,62 @@
+{
+  "id": 1209511141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05994,13.82831,-61.05994,13.82831",
+    "geom:latitude":13.82831,
+    "geom:longitude":-61.05994,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"60230000.0",
+    "gn:asciiname":"Jalousie",
+    "gn:country_code":"LC",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576670,
+    "gn:latitude":13.82831,
+    "gn:longitude":-61.05994,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Jalousie",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576670
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"ee6f6c864b7bda211f3ba2fe400857db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632369,
+            "locality_id":1209511141
+        }
+    ],
+    "wof:id":1209511141,
+    "wof:lastmodified":1536284878,
+    "wof:name":"Jalousie",
+    "wof:parent_id":85632369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05994000000001,
+    13.82831,
+    -61.05994000000001,
+    13.82831
+],
+  "geometry": {"coordinates":[-61.05994000000001,13.82831],"type":"Point"}
+}

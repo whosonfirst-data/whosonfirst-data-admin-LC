@@ -1,0 +1,71 @@
+{
+  "id": 1293383733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95706,13.73718,-60.95706,13.73718",
+    "geom:latitude":13.73718,
+    "geom:longitude":-60.95706,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"90280000.0",
+    "gn:asciiname":"La Tourney",
+    "gn:country_code":"LC",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576628,
+    "gn:latitude":13.73718,
+    "gn:longitude":-60.95706,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"La Tourney",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tourney",
+        "La Tourney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576628,
+        "wk:page":"La_Tourney"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"08a996f506547a9c641eccd25fae5301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1293383733,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":1293383733,
+    "wof:lastmodified":1537661325,
+    "wof:name":"La Tourney",
+    "wof:parent_id":85673717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95706,
+    13.73718,
+    -60.95706,
+    13.73718
+],
+  "geometry": {"coordinates":[-60.95706,13.73718],"type":"Point"}
+}

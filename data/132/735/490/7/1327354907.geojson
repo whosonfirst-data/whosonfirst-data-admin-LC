@@ -1,0 +1,64 @@
+{
+  "id": 1327354907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.98333,13.73333,-60.98333,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-60.98333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Anse Noir",
+    "gn:country_code":"LC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576889,
+    "gn:latitude":13.73333,
+    "gn:longitude":-60.98333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Anse Noir",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576889
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"05973e9cb372cccba04120e32e265090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1327354907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327354907,
+    "wof:lastmodified":1536793098,
+    "wof:name":"Anse Noir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.98333,
+    13.73333,
+    -60.98333,
+    13.73333
+],
+  "geometry": {"coordinates":[-60.98333,13.73333],"type":"Point"}
+}

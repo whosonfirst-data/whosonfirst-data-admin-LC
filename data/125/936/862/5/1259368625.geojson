@@ -1,0 +1,70 @@
+{
+  "id": 1259368625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93509,13.79824,-60.93509,13.79824",
+    "geom:latitude":13.79824,
+    "geom:longitude":-60.93509,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"100170000.0",
+    "gn:asciiname":"Desruisseaux",
+    "gn:country_code":"LC",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576750,
+    "gn:latitude":13.79824,
+    "gn:longitude":-60.93509,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Desruisseaux",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Desruisseau",
+        "Desruisseaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576750
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"eeb48587b76ff8e3d89bd7a6d1b2c17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1259368625,
+            "region_id":85673703
+        }
+    ],
+    "wof:id":1259368625,
+    "wof:lastmodified":1537661326,
+    "wof:name":"Desruisseaux",
+    "wof:parent_id":85673703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93509,
+    13.79824,
+    -60.93509,
+    13.79824
+],
+  "geometry": {"coordinates":[-60.93509,13.79824],"type":"Point"}
+}

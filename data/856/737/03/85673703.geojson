@@ -1,0 +1,291 @@
+{
+  "id": 85673703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002919,
+    "geom:area_square_m":35052467.971642,
+    "geom:bbox":"-60.9752228335,13.7740007412,-60.8922013009,13.845171703",
+    "geom:latitude":13.814879,
+    "geom:longitude":-60.927779,
+    "gn:population":16143,
+    "iso:country":"LC",
+    "label:eng_x_preferred_longname":[
+        "Micoud District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":13.814695,
+    "lbl:longitude":-60.92715,
+    "mps:latitude":13.814695,
+    "mps:longitude":-60.92715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0645\u064a\u0643\u0648\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0987\u0995\u09a1 \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "\u7c73\u5eab\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Micoud Quarter"
+    ],
+    "name:dut_x_preferred":[
+        "Micoud"
+    ],
+    "name:eng_x_preferred":[
+        "Micoud"
+    ],
+    "name:epo_x_preferred":[
+        "Micoud"
+    ],
+    "name:fin_x_preferred":[
+        "Micoud Quarter"
+    ],
+    "name:fra_x_preferred":[
+        "District de Micoud"
+    ],
+    "name:fre_x_preferred":[
+        "district de Micoud"
+    ],
+    "name:ger_x_preferred":[
+        "Micoud"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b9\u03ba\u03bf\u03cd\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0a87\u0a95\u0aa1 \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0938\u0942\u0926 \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Micoud Quarter"
+    ],
+    "name:ita_x_preferred":[
+        "Quartiere di Micoud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30af\u30c3\u30c9\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc8\u0c95\u0cc6\u0ca1\u0ccd \u0c95\u0ccd\u0cb5\u0cbe\u0cb0\u0ccd\u0c9f\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ucfe0 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Mik\u016b"
+    ],
+    "name:lit_x_preferred":[
+        "Mikudas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0907\u0915\u0930\u094d\u0921 \u0915\u094d\u0935\u0949\u0930\u094d\u091f\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Micoud Quarter"
+    ],
+    "name:nob_x_preferred":[
+        "Micoud Quarter"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u06cc\u06a9\u0648\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Micoud"
+    ],
+    "name:por_x_preferred":[
+        "Micoud"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd2\u0d9a\u0dc0\u0dd4\u0da9\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Micoud"
+    ],
+    "name:swe_x_preferred":[
+        "Micoud Quarter"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbf\u0b95\u0bcb\u0b9f\u0bcd  \u0b95\u0bc1\u0b86\u0bb0\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c48\u0c15\u0c41\u0c21\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c30\u0c4d\u0c1f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e34\u0e04\u0e39 \u0e04\u0e27\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Micoud"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043a\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Quarter of Micoud"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u062f \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Micoud"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5eab\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LCA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LCA-5083",
+    "ne:adm1_code":"LCA-5083",
+    "ne:admin":"Saint Lucia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LC.MI",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5083",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ST08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Lucia",
+    "ne:gn_a1_code":"LC.08",
+    "ne:gn_id":"3576567",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Quarter of Micoud",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ST08",
+    "ne:gns_id":"-1314026",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Micoud, Quarter of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LC-08",
+    "ne:iso_a2":"LC",
+    "ne:labelrank":"20",
+    "ne:latitude":"13.81590000000",
+    "ne:longitude":"-60.91800000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":3,
+    "ne:name":"Micoud",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"LCA",
+    "ne:sub_code":"",
+    "ne:type":"Quarter",
+    "ne:type_en":"Quarter",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Micoud_Quarter",
+    "ne:woe_id":2347030,
+    "ne:woe_label":"Micoud, LC, St. Lucia",
+    "ne:woe_name":"Micoud",
+    "qs:a0":"Saint Lucia",
+    "qs:a0_lc":"LC",
+    "qs:a1":"Micoud",
+    "qs:a1_lc":"LCA-5083",
+    "qs:adm0":"Saint Lucia",
+    "qs:adm0_a3":"LCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Quarter",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-10",
+    "statoids:area_km":"78",
+    "statoids:area_mi":"30",
+    "statoids:as_of_date":"2010-05-10",
+    "statoids:capital":"Micoud",
+    "statoids:country":"LC",
+    "statoids:gec":"ST08",
+    "statoids:hasc":"LC.MI",
+    "statoids:iso":"08",
+    "statoids:name":"Micoud",
+    "statoids:population":"16284",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "unlc:subdivision":"LC-08",
+    "wof:belongsto":[
+        102191575,
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ST08",
+        "gn:id":3576567,
+        "gp:id":2347030,
+        "hasc:id":"LC.MI",
+        "iso:id":"LC-08",
+        "qs:id":1322126,
+        "unlc:id":"LC-08",
+        "wd:id":"Q1240193",
+        "wk:page":"Micoud Quarter"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"21aec60397886d35087a9eacc094e526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "region_id":85673703
+        }
+    ],
+    "wof:id":85673703,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814806,
+    "wof:name":"Micoud",
+    "wof:parent_id":85632369,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":16284,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"MI",
+    "wof:subdivision":"LC-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97522283346694,
+    13.77400074124125,
+    -60.89220130094924,
+    13.84517170301172
+],
+  "geometry": {"coordinates":[[[-60.89220130094924,13.83319733339027],[-60.90461178330713,13.78424713729561],[-60.90729732980788,13.77732982011514],[-60.91030839761441,13.77610911724202],[-60.91803911021674,13.77400074124125],[-60.92924284628032,13.7887743748376],[-60.94177558607441,13.80256038825138],[-60.96182796938524,13.82386604608121],[-60.97522283346694,13.83923262158828],[-60.96433451752392,13.84517170301172],[-60.9430288596941,13.84015860763367],[-60.91545683286648,13.83263896411694],[-60.89220130094924,13.83319733339027]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209504747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06695,13.80056,-61.06695,13.80056",
+    "geom:latitude":13.80056,
+    "geom:longitude":-61.06695,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"60680000.0",
+    "gn:asciiname":"L'Ivrogne",
+    "gn:country_code":"LC",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576615,
+    "gn:latitude":13.80056,
+    "gn:longitude":-61.06695,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"L\u2019Ivrogne",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yvrogne",
+        "L\u2019Ivrogne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576615
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"e00f40b7a492df561b1eccdf037cef98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632369,
+            "locality_id":1209504747
+        }
+    ],
+    "wof:id":1209504747,
+    "wof:lastmodified":1537661325,
+    "wof:name":"L'Ivrogne",
+    "wof:parent_id":85632369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06695,
+    13.80056,
+    -61.06695,
+    13.80056
+],
+  "geometry": {"coordinates":[-61.06695,13.80056],"type":"Point"}
+}

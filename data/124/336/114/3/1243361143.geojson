@@ -1,0 +1,66 @@
+{
+  "id": 1243361143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91667,14.01667,-60.91667,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":-60.91667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"120060000.0",
+    "gn:asciiname":"L'Hermitage",
+    "gn:country_code":"LC",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576620,
+    "gn:latitude":14.01667,
+    "gn:longitude":-60.91667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"L\u2019Hermitage",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576620
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"93a5fce90d8e64063cc0dcf22e4e2772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1243361143,
+            "region_id":85673687
+        }
+    ],
+    "wof:id":1243361143,
+    "wof:lastmodified":1536929317,
+    "wof:name":"L'Hermitage",
+    "wof:parent_id":85673687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91667,
+    14.01667,
+    -60.91667,
+    14.01667
+],
+  "geometry": {"coordinates":[-60.91667,14.01667],"type":"Point"}
+}

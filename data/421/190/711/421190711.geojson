@@ -1,0 +1,94 @@
+{
+  "id": 421190711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9,13.81667,-60.9,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-60.9,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Micoud"
+    ],
+    "name:eng_x_preferred":[
+        "Micoud"
+    ],
+    "name:pol_x_preferred":[
+        "Micoud"
+    ],
+    "name:spa_x_preferred":[
+        "Micoud"
+    ],
+    "qs:gn_country":"LC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3576569,
+    "qs:gn_pop":3406,
+    "qs:name":"Micoud",
+    "qs:name_adm0":"St. Lucia",
+    "qs:name_adm1":"Micoud",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":53689,
+    "qs:woe_adm0":23424951,
+    "qs:woe_id":162090,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":13.819,
+    "wd:longitude":-60.9,
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576569,
+        "gp:id":162090,
+        "qs:id":53689,
+        "wd:id":"Q11779522",
+        "wk:page":"Micoud, Saint Lucia"
+    },
+    "wof:country":"LC",
+    "wof:created":1459009666,
+    "wof:geomhash":"e5536c51cfa5d2bae737d91c19eb7311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":421190711,
+            "region_id":85673703
+        }
+    ],
+    "wof:id":421190711,
+    "wof:lastmodified":1527716398,
+    "wof:name":"Micoud",
+    "wof:parent_id":85673703,
+    "wof:placetype":"locality",
+    "wof:population":3406,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9,
+    13.81667,
+    -60.9,
+    13.81667
+],
+  "geometry": {"coordinates":[-60.9,13.81667],"type":"Point"}
+}

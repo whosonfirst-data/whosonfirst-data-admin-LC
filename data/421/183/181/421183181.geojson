@@ -1,0 +1,95 @@
+{
+  "id": 421183181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.911893,13.938565,-60.911893,13.938565",
+    "geom:latitude":13.938565,
+    "geom:longitude":-60.911893,
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Lumi\u00e8re"
+    ],
+    "name:deu_x_preferred":[
+        "Lumi\u00e8re"
+    ],
+    "name:fra_x_preferred":[
+        "Lumi\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Lumi\u00e8re"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30df\u30a8\u30fc\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Lumi\u00e8re"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u043c\u044c\u0435\u0440"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Lumi\u00e8re",
+    "qs:name_adm0":"St. Lucia",
+    "qs:name_adm1":"Dennery",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":966508,
+    "qs:woe_adm0":23424951,
+    "qs:woe_id":162078,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":162078,
+        "qs:id":966508
+    },
+    "wof:country":"LC",
+    "wof:created":1459009361,
+    "wof:geomhash":"d9edc7cb90a243749de0b6b3d34f583c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":421183181,
+            "region_id":85673689
+        }
+    ],
+    "wof:id":421183181,
+    "wof:lastmodified":1527716491,
+    "wof:name":"Lumi\u00e8re",
+    "wof:parent_id":85673689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.911893,
+    13.938565,
+    -60.911893,
+    13.938565
+],
+  "geometry": {"coordinates":[-60.911893,13.938565],"type":"Point"}
+}

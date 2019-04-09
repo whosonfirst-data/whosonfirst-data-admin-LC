@@ -1,0 +1,67 @@
+{
+  "id": 1242978185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97507,13.96139,-60.97507,13.96139",
+    "geom:latitude":13.96139,
+    "geom:longitude":-60.97507,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"30110000.0",
+    "gn:asciiname":"Deglos",
+    "gn:country_code":"LC",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576768,
+    "gn:latitude":13.96139,
+    "gn:longitude":-60.97507,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Deglos",
+    "gn:population":0,
+    "gn:timezone":"America/St_Lucia",
+    "iso:country":"LC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576768,
+        "wk:page":"Deglos"
+    },
+    "wof:country":"LC",
+    "wof:geomhash":"4183974c210c3bccd43085f5eef29af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632369,
+            "locality_id":1242978185,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":1242978185,
+    "wof:lastmodified":1537567957,
+    "wof:name":"Deglos",
+    "wof:parent_id":85673679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97507,
+    13.96139,
+    -60.97507,
+    13.96139
+],
+  "geometry": {"coordinates":[-60.97507,13.96139],"type":"Point"}
+}
