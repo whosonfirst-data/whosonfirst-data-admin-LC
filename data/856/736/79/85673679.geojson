@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006518,
-    "geom:area_square_m":78211122.797762,
+    "geom:area_square_m":78211122.797771,
     "geom:bbox":"-61.0266007153,13.8790101006,-60.935588022,14.043524481",
     "geom:latitude":13.976414,
     "geom:longitude":-60.972827,
@@ -25,23 +25,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
-    "name:chi_x_preferred":[
-        "\u5361\u65af\u7279\u91cc\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Castries"
     ],
     "name:eng_x_preferred":[
         "Castries"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0627\u0633\u062a\u0631\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
         "District de Castries"
-    ],
-    "name:fre_x_preferred":[
-        "District de Castries"
-    ],
-    "name:ger_x_preferred":[
-        "Castries"
     ],
     "name:ita_x_preferred":[
         "Quartiere di Castries"
@@ -55,14 +49,11 @@
     "name:lit_x_preferred":[
         "Kastrio kvartalas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0441\u0442\u0440\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u06a9\u0627\u0633\u062a\u0631\u06cc\u0633"
+    "name:nld_x_preferred":[
+        "Castries"
     ],
     "name:pol_x_preferred":[
         "Castries"
@@ -90,6 +81,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u65af\u7279\u5217\u65af\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u65af\u7279\u91cc\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LCA",
@@ -212,7 +206,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830362,
     "wof:name":"Castries",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

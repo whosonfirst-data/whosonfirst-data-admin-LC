@@ -16,7 +16,7 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062c\u0648\u0631\u0633"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gros Islet"
     ],
     "name:ell_x_preferred":[
@@ -28,17 +28,11 @@
     "name:fra_x_preferred":[
         "Gros Islet"
     ],
-    "name:fre_x_preferred":[
-        "Gros Islet"
-    ],
-    "name:ger_x_preferred":[
-        "Gros Islet"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b7\u03c3\u03af\u03b4\u03b1 \u0393\u03ba\u03c1\u03bf\u03c2"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d5 \u05d0\u05d9\u05e1\u05dc\u05d8"
+    ],
+    "name:nld_x_preferred":[
+        "Gros Islet"
     ],
     "name:pol_x_preferred":[
         "Gros Islet"
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":421201343,
-    "wof:lastmodified":1527716442,
+    "wof:lastmodified":1561830363,
     "wof:name":"Gros Islet",
     "wof:parent_id":85673695,
     "wof:placetype":"locality",

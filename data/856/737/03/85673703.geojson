@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002919,
-    "geom:area_square_m":35052467.971642,
+    "geom:area_square_m":35052467.971631,
     "geom:bbox":"-60.9752228335,13.7740007412,-60.8922013009,13.845171703",
     "geom:latitude":13.814879,
     "geom:longitude":-60.927779,
@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0987\u0995\u09a1 \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u5eab\u5340"
-    ],
     "name:dan_x_preferred":[
         "Micoud Quarter"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Micoud"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03bf\u03cd\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Micoud"
@@ -46,20 +46,17 @@
     "name:epo_x_preferred":[
         "Micoud"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u06cc\u06a9\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Micoud Quarter"
     ],
     "name:fra_x_preferred":[
         "District de Micoud"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district de Micoud"
-    ],
-    "name:ger_x_preferred":[
-        "Micoud"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03ba\u03bf\u03cd\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a87\u0a95\u0aa1 \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
@@ -91,14 +88,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0907\u0915\u0930\u094d\u0921 \u0915\u094d\u0935\u0949\u0930\u094d\u091f\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Micoud Quarter"
+    ],
+    "name:nld_x_preferred":[
+        "Micoud"
     ],
     "name:nob_x_preferred":[
         "Micoud Quarter"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0645\u06cc\u06a9\u0648\u062f"
     ],
     "name:pol_x_preferred":[
         "Micoud"
@@ -266,7 +263,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830361,
     "wof:name":"Micoud",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

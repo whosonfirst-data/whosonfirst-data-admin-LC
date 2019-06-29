@@ -155,9 +155,6 @@
     "name:cym_x_variant":[
         "Saint Lucia"
     ],
-    "name:cze_x_preferred":[
-        "Svat\u00e1 Lucie"
-    ],
     "name:dan_x_preferred":[
         "Saint Lucia"
     ],
@@ -560,9 +557,6 @@
     "name:ron_x_preferred":[
         "Sf\u00e2nta Lucia"
     ],
-    "name:rum_x_preferred":[
-        "Sf\u00e2nta Lucia"
-    ],
     "name:rum_x_variant":[
         "Saint Lucia"
     ],
@@ -744,7 +738,6 @@
         "\u5723\u5362\u897f\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5723\u5362\u897f\u4e9a",
         "\u8056\u9732\u897f\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -899,7 +892,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059205,
+    "wof:lastmodified":1561830362,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

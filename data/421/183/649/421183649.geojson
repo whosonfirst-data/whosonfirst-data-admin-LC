@@ -16,23 +16,17 @@
     "name:deu_x_preferred":[
         "Laborie"
     ],
-    "name:dut_x_preferred":[
-        "Laborie"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03bc\u03c0\u03bf\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Laborie"
     ],
-    "name:ger_x_preferred":[
-        "Laborie"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03bc\u03c0\u03bf\u03c1\u03af"
-    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05d1\u05d5\u05e8\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Laborie"
     ],
     "name:oci_x_preferred":[
         "La B\u00f2ria"
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":421183649,
-    "wof:lastmodified":1527717696,
+    "wof:lastmodified":1561830363,
     "wof:name":"Laborie",
     "wof:parent_id":85673699,
     "wof:placetype":"locality",

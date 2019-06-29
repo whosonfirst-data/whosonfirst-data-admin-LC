@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003466,
-    "geom:area_square_m":41627037.052481,
+    "geom:area_square_m":41627037.052491,
     "geom:bbox":"-60.9815779314,13.7146670591,-60.9180391102,13.8392326216",
     "geom:latitude":13.775082,
     "geom:longitude":-60.952216,
@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u0995\u09cd\u09b8 \u09ab\u09cb\u09b0\u09cd\u099f \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u4f2f\u5821\u5340"
-    ],
     "name:dan_x_preferred":[
         "Vieux Fort Quarter"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vieux Fort"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03b5 \u03a6\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Vieux Fort"
@@ -46,17 +46,14 @@
     "name:epo_x_preferred":[
         "Vieux Fort"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0648\u06cc\u0648 \u0641\u0648\u0631\u062a"
+    ],
     "name:fin_x_preferred":[
         "Vieux-Fort"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vieux Fort"
-    ],
-    "name:ger_x_preferred":[
-        "Vieux Fort"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03b5 \u03a6\u03bf\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0a8f\u0a95\u0acd\u0ab8 \u0aab\u0acb\u0ab0\u0acd\u0a9f \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
@@ -88,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0913\u0915\u094d\u0938 \u092b\u094b\u0930\u094d\u091f \u0915\u094d\u0935\u0949\u0930\u094d\u091f\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vieux Fort Quarter"
+    ],
+    "name:nld_x_preferred":[
+        "Vieux Fort"
     ],
     "name:nob_x_preferred":[
         "Vieux Fort Quarter"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0648\u06cc\u0648 \u0641\u0648\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Vieux Fort"
@@ -138,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "Vieux Fort"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u5821\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LCA",
@@ -260,7 +260,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830362,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

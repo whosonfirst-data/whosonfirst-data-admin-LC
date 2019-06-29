@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007819,
-    "geom:area_square_m":93870700.547006,
+    "geom:area_square_m":93870700.546996,
     "geom:bbox":"-61.0785212875,13.7921817082,-60.9605746958,13.9090886756",
     "geom:latitude":13.854848,
     "geom:longitude":-61.030443,
@@ -25,13 +25,7 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
-    "name:chi_x_preferred":[
-        "\u8607\u5f17\u91cc\u8036\u723e\u5340"
-    ],
     "name:deu_x_preferred":[
-        "Soufri\u00e8re"
-    ],
-    "name:dut_x_preferred":[
         "Soufri\u00e8re"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "District de Soufri\u00e8re"
-    ],
-    "name:fre_x_preferred":[
-        "District de Soufri\u00e8re"
-    ],
-    "name:ger_x_preferred":[
-        "Soufri\u00e8re"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e4\u05e8\u05d9\u05d9\u05e8"
@@ -67,14 +55,11 @@
     "name:lit_x_preferred":[
         "Sufrieras"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0443\u0444\u0440\u0438\u0435\u0440"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0444\u0440\u0438\u0435\u0440"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0633\u0648\u0641\u0631\u06cc\u0631"
+    "name:nld_x_preferred":[
+        "Soufri\u00e8re"
     ],
     "name:pol_x_preferred":[
         "Soufri\u00e8re"
@@ -99,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Soufri\u00e8re"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u5f17\u91cc\u8036\u723e\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LCA",
@@ -221,7 +209,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830362,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
