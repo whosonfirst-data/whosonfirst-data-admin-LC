@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006485,
-    "geom:area_square_m":77836107.897338,
+    "geom:area_square_m":77836107.897333,
     "geom:bbox":"-61.0668839182,13.8664773608,-60.9806270791,13.9873721371",
     "geom:latitude":13.927987,
     "geom:longitude":-61.013986,
@@ -28,20 +28,17 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0623\u0646\u0633 \u0644\u0627 \u0631\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Anse la Raye auzoa"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09b8 \u09b2\u09be \u09b0\u09be\u09af\u09bc\u09c7 \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
-    ],
-    "name:chi_x_preferred":[
-        "\u6602\u65af\u62c9\u96f7\u5340"
     ],
     "name:dan_x_preferred":[
         "Anse la Raye Quarter"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Anse-la-Raye"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c2 \u03bb\u03b1 \u03a1\u03ac\u03b9\u03b3"
     ],
     "name:eng_x_preferred":[
         "Ansela-Raye"
@@ -49,17 +46,17 @@
     "name:epo_x_preferred":[
         "Anse La Raye"
     ],
+    "name:eus_x_preferred":[
+        "Anse la Raye auzoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0622\u0646\u0633\u0647 \u0644\u0627 \u0631\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Anse-la-Raye"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District d'Anse-la-Raye"
-    ],
-    "name:ger_x_preferred":[
-        "Anse-la-Raye"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bd\u03c2 \u03bb\u03b1 \u03a1\u03ac\u03b9\u03b3"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0ab8\u0ac7 \u0ab2\u0abe \u0ab0\u0ac7\u0aaf \u0a95\u0acd\u0ab5\u0abe\u0ab0\u0acd\u0a9f\u0ab0"
@@ -88,20 +85,20 @@
     "name:lit_x_preferred":[
         "Ans Lavua"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043d\u0441 \u043b\u0430 \u0420\u0435\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0902. \u0932\u093e \u0930\u093e\u092f \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0441 \u043b\u0430 \u0420\u0435\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Anse la Raye Quarter"
+    ],
+    "name:nld_x_preferred":[
+        "Anse-la-Raye"
     ],
     "name:nob_x_preferred":[
         "Anse la Raye Quarter"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0622\u0646\u0633\u0647 \u0644\u0627 \u0631\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Anse la Raye"
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Anse la Raye"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u65af\u62c9\u96f7\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LCA",
@@ -265,7 +265,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830362,
     "wof:name":"Anse-la-Raye",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

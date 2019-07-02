@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003892,
-    "geom:area_square_m":46687057.215244,
+    "geom:area_square_m":46687057.215242,
     "geom:bbox":"-60.9405223116,13.9792720181,-60.8829646475,14.0733910183",
     "geom:latitude":14.020256,
     "geom:longitude":-60.910812,
@@ -21,11 +21,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
-    "name:chi_x_preferred":[
-        "\u591a\u82ac\u5340"
+    "name:deu_x_preferred":[
+        "Dauphin"
     ],
-    "name:dut_x_preferred":[
-        "Dauphin Quarter"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c6\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dauphin"
@@ -33,11 +33,8 @@
     "name:epo_x_preferred":[
         "Dauphin"
     ],
-    "name:ger_x_preferred":[
-        "Dauphin"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c6\u03ad\u03bd"
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u062f\u0627\u0648\u0641\u06cc\u0646"
     ],
     "name:ita_x_preferred":[
         "quartiere di Dauphin"
@@ -51,8 +48,8 @@
     "name:lit_x_preferred":[
         "Daufinas"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u062f\u0627\u0648\u0641\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Dauphin Quarter"
     ],
     "name:spa_x_preferred":[
         "Dauphin"
@@ -68,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Dauphin"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u82ac\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LCA",
@@ -173,7 +173,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814806,
+    "wof:lastmodified":1561830362,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
