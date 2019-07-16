@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Praslin"
     ],
+    "name:eng_x_variant":[
+        "Praslin Quarter"
+    ],
     "name:epo_x_preferred":[
         "Praslin"
     ],
@@ -239,7 +242,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284881,
     "wof:name":"Praslin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

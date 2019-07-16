@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09bf\u09b0\u09bf \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Dennery"
+    ],
     "name:dan_x_preferred":[
         "Dennery Quarter"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Dennery"
+    ],
+    "name:eng_x_variant":[
+        "Dennery Quarter"
     ],
     "name:epo_x_preferred":[
         "Dennery"
@@ -263,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284882,
     "wof:name":"Dennery",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

@@ -58,6 +58,9 @@
     "name:cdo_x_preferred":[
         "Castries"
     ],
+    "name:ceb_x_preferred":[
+        "Castries"
+    ],
     "name:ces_x_preferred":[
         "Castries"
     ],
@@ -104,6 +107,9 @@
         "Castries"
     ],
     "name:glg_x_preferred":[
+        "Castries"
+    ],
+    "name:grn_x_preferred":[
         "Castries"
     ],
     "name:gsw_x_preferred":[
@@ -163,6 +169,9 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0438"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438"
+    ],
     "name:kor_x_preferred":[
         "\uce90\uc2a4\ud2b8\ub9ac\uc2a4"
     ],
@@ -178,6 +187,9 @@
     "name:lmo_x_preferred":[
         "Castries"
     ],
+    "name:ltz_x_preferred":[
+        "Castries"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0938\u094d\u091f\u094d\u0930\u0940\u091d"
     ],
@@ -185,6 +197,9 @@
         "\u041a\u0430\u0441\u0442\u0440\u0438"
     ],
     "name:mlg_x_preferred":[
+        "Castries"
+    ],
+    "name:mlt_x_preferred":[
         "Castries"
     ],
     "name:msa_x_preferred":[
@@ -213,6 +228,9 @@
     ],
     "name:oci_x_preferred":[
         "Castries"
+    ],
+    "name:olo_x_preferred":[
+        "Kastri"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3e\u0a38\u0a24\u0a30\u0a40\u0a38"
@@ -252,6 +270,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0438"
+    ],
+    "name:stq_x_preferred":[
+        "Castries"
     ],
     "name:swa_x_preferred":[
         "Castries"
@@ -367,7 +388,7 @@
         }
     ],
     "wof:id":421186633,
-    "wof:lastmodified":1561830363,
+    "wof:lastmodified":1563284908,
     "wof:name":"Castries",
     "wof:parent_id":85673679,
     "wof:placetype":"locality",

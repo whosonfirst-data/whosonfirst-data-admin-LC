@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u0995\u09cd\u09b8 \u09ab\u09cb\u09b0\u09cd\u099f \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Vieux-Fort"
+    ],
     "name:dan_x_preferred":[
         "Vieux Fort Quarter"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Vieux Fort"
+    ],
+    "name:eng_x_variant":[
+        "Vieux Fort Quarter"
     ],
     "name:epo_x_preferred":[
         "Vieux Fort"
@@ -260,7 +266,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284880,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

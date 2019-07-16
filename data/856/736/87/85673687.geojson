@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Dauphin"
     ],
+    "name:eng_x_variant":[
+        "Dauphin Quarter"
+    ],
     "name:epo_x_preferred":[
         "Dauphin"
     ],
@@ -173,7 +176,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284882,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

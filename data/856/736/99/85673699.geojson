@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09ac\u09c1\u09b0\u09bf \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Laborie"
+    ],
     "name:dan_x_preferred":[
         "Laborie Quarter"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Laborie"
+    ],
+    "name:eng_x_variant":[
+        "Laborie Quarter"
     ],
     "name:epo_x_preferred":[
         "Laborie"
@@ -266,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284883,
     "wof:name":"Laborie",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

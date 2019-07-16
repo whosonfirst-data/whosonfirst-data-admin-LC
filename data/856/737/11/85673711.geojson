@@ -25,11 +25,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Soufri\u00e8re"
+    ],
     "name:deu_x_preferred":[
         "Soufri\u00e8re"
     ],
     "name:eng_x_preferred":[
         "Soufriere"
+    ],
+    "name:eng_x_variant":[
+        "Soufri\u00e8re Quarter"
     ],
     "name:epo_x_preferred":[
         "Soufri\u00e8re"
@@ -42,6 +48,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e4\u05e8\u05d9\u05d9\u05e8"
+    ],
+    "name:ind_x_preferred":[
+        "Kuarter Soufri\u00e8re"
     ],
     "name:ita_x_preferred":[
         "Quartiere di Soufri\u00e8re"
@@ -209,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284880,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
