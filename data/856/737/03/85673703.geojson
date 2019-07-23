@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0987\u0995\u09a1 \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Micoud"
+    ],
     "name:dan_x_preferred":[
         "Micoud Quarter"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Micoud"
+    ],
+    "name:eng_x_variant":[
+        "Micoud Quarter"
     ],
     "name:epo_x_preferred":[
         "Micoud"
@@ -105,6 +111,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043a\u0443\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043a\u0443"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0d9a\u0dc0\u0dd4\u0da9\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dbb\u0dca"
@@ -263,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830361,
+    "wof:lastmodified":1563284879,
     "wof:name":"Micoud",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

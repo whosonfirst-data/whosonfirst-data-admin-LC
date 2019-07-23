@@ -25,17 +25,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Castries"
+    ],
     "name:deu_x_preferred":[
         "Castries"
     ],
     "name:eng_x_preferred":[
         "Castries"
     ],
+    "name:eng_x_variant":[
+        "Castries Quarter"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u06a9\u0627\u0633\u062a\u0631\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "District de Castries"
+    ],
+    "name:ind_x_preferred":[
+        "Kuarter Castries"
     ],
     "name:ita_x_preferred":[
         "Quartiere di Castries"
@@ -48,6 +57,9 @@
     ],
     "name:lit_x_preferred":[
         "Kastrio kvartalas"
+    ],
+    "name:ltz_x_preferred":[
+        "Castries"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0438"
@@ -206,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284884,
     "wof:name":"Castries",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

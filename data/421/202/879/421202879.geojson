@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vieux Fort"
+    ],
     "name:deu_x_preferred":[
         "Vieux Fort"
     ],
@@ -42,6 +45,15 @@
     ],
     "name:spa_x_preferred":[
         "Vieux Fort"
+    ],
+    "name:swe_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u5170\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u7dad\u7d04\u5821"
     ],
     "qs:gn_country":"LC",
     "qs:gn_fcode":"PPL",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421202879,
-    "wof:lastmodified":1561830363,
+    "wof:lastmodified":1563284905,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85673717,
     "wof:placetype":"locality",

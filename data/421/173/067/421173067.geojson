@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09ab\u09cd\u09b0\u09bf\u09b0\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Soufri\u00e8re"
+    ],
     "name:dan_x_preferred":[
         "Soufriere"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:eng_x_preferred":[
         "Soufri\u00e8re"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0641\u0631\u06cc\u0647 \u0631\u0647"
     ],
     "name:fin_x_preferred":[
         "Soufri\u00e8re"
@@ -118,6 +124,9 @@
     "name:vie_x_preferred":[
         "Soufri\u00e8re"
     ],
+    "name:zho_x_preferred":[
+        "\u8607\u5f17\u91cc\u8036\u723e"
+    ],
     "qs:gn_country":"LC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3576442,
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":421173067,
-    "wof:lastmodified":1561830363,
+    "wof:lastmodified":1563284906,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85673711,
     "wof:placetype":"locality",

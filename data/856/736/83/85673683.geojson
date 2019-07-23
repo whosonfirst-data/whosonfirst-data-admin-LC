@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Choiseul"
     ],
+    "name:eng_x_variant":[
+        "Choiseul Quarter"
+    ],
     "name:epo_x_preferred":[
         "Choiseul"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Choiseul"
+    ],
+    "name:ind_x_preferred":[
+        "Kuarter Choiseul"
     ],
     "name:ita_x_preferred":[
         "Quartiere di Choiseul"
@@ -203,7 +209,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284884,
     "wof:name":"Choiseul",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

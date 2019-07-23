@@ -131,6 +131,9 @@
     "name:cdo_x_preferred":[
         "S\u00e9ng Lucia"
     ],
+    "name:cdo_x_variant":[
+        "Saint Lucia"
+    ],
     "name:ceb_x_preferred":[
         "Saint Lucia"
     ],
@@ -161,11 +164,17 @@
     "name:deu_x_preferred":[
         "St. Lucia"
     ],
+    "name:diq_x_preferred":[
+        "Saint Lucia"
+    ],
     "name:div_x_preferred":[
         "\u0790\u07a6\u0782\u07b0\u078c\u07a8 \u078d\u07ab\u0790\u07a8\u0787\u07a7"
     ],
     "name:dsb_x_preferred":[
         "Saint Lucia"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u0947\u0928\u094d\u091f \u0932\u0941\u0938\u093f\u092f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u039b\u03bf\u03c5\u03ba\u03af\u03b1"
@@ -243,6 +252,9 @@
     "name:gla_x_preferred":[
         "Naomh L\u00f9isia"
     ],
+    "name:gla_x_variant":[
+        "Naomh L\u00f9isea"
+    ],
     "name:gle_x_preferred":[
         "San Lucia"
     ],
@@ -261,17 +273,32 @@
     "name:gom_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0941\u0938\u093f\u092f\u093e"
     ],
+    "name:grn_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Lucia"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0ab2\u0ac1\u0ab8\u0abf\u0aaf\u0abe"
     ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0ac2\u0ab8\u0abf\u0aaf\u0abe"
+    ],
     "name:hak_x_preferred":[
         "S\u1e73n Lucia"
+    ],
+    "name:hak_x_variant":[
+        "Saint Lucia"
     ],
     "name:hat_x_preferred":[
         "Sent Lisi"
     ],
     "name:hau_x_preferred":[
         "San Lusiya"
+    ],
+    "name:hau_x_variant":[
+        "Saint Lucia"
     ],
     "name:hbs_x_preferred":[
         "Sveta Lucija"
@@ -352,6 +379,9 @@
     "name:jav_x_preferred":[
         "Santa Lucia"
     ],
+    "name:jav_x_variant":[
+        "Saint Lucia"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"
     ],
@@ -397,6 +427,9 @@
     "name:kur_x_variant":[
         "\u0633\u06d5\u06cc\u0646\u062a \u0644\u0648\u0648\u0633\u06cc\u0627"
     ],
+    "name:lad_x_preferred":[
+        "Santa Lusia"
+    ],
     "name:lat_x_preferred":[
         "Sancta Lucia (civitas)"
     ],
@@ -405,6 +438,9 @@
     ],
     "name:lav_x_preferred":[
         "Sentl\u016bsija"
+    ],
+    "name:lfn_x_preferred":[
+        "San Lusia"
     ],
     "name:lij_x_preferred":[
         "Santa Lu\u00e7ia (Na\u00e7ioin)"
@@ -438,6 +474,9 @@
     ],
     "name:lug_x_preferred":[
         "Senti Luciya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8056\u9732\u897f\u4e9e"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d46\u0d2f\u0d4d\u0d28\u0d4d\u0d31\u0d4d \u0d32\u0d42\u0d38\u0d3f\u0d2f"
@@ -478,8 +517,14 @@
     "name:mya_x_preferred":[
         "\u1005\u102d\u1014\u1037\u103a\u101c\u1030\u1005\u102e\u101a\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f"
+    ],
     "name:nah_x_preferred":[
         "Santa Luc\u00eda"
+    ],
+    "name:nan_x_preferred":[
+        "Saint Lucia"
     ],
     "name:nde_x_preferred":[
         "Saint Lucia"
@@ -489,6 +534,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0938\u0947\u0928\u094d\u091f \u0932\u0941\u0938\u093f\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0928\u094d\u0924 \u0932\u0941\u0938\u093f\u092f\u093e"
     ],
     "name:nld_x_preferred":[
         "Saint Lucia"
@@ -518,6 +566,9 @@
     "name:oci_x_preferred":[
         "Santa L\u00facia"
     ],
+    "name:olo_x_preferred":[
+        "Sent-Lusia"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b32\u0b41\u0b38\u0b3f\u0b06"
     ],
@@ -529,6 +580,12 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a47\u0a02\u0a1f \u0a32\u0a42\u0a38\u0a40\u0a06"
+    ],
+    "name:pap_x_preferred":[
+        "Saint Lucia"
+    ],
+    "name:pih_x_preferred":[
+        "Saint Lucia"
     ],
     "name:pli_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0942\u0938\u093f\u092f\u093e"
@@ -584,6 +641,9 @@
     "name:sco_x_preferred":[
         "Saunt Lucia"
     ],
+    "name:sgs_x_preferred":[
+        "Sent Lius\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dbd\u0dd4\u0dc3\u0dd2\u0dba\u0dcf"
     ],
@@ -599,11 +659,17 @@
     "name:sme_x_preferred":[
         "Saint Lucia"
     ],
+    "name:smo_x_preferred":[
+        "Saint Lucia"
+    ],
     "name:sna_x_preferred":[
         "Saint Lucia"
     ],
     "name:som_x_preferred":[
         "Saint Lucia"
+    ],
+    "name:som_x_variant":[
+        "Saint Lukia"
     ],
     "name:spa_x_preferred":[
         "Santa Luc\u00eda"
@@ -649,8 +715,14 @@
     "name:tam_x_variant":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0b9a\u0bbf\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d \u0c32\u0c42\u0c38\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_variant":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c42\u0c38\u0c3f\u0c2f\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Santa L\u00fasia"
@@ -665,13 +737,17 @@
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e25\u0e39\u0e40\u0e0b\u0e35\u0e22"
     ],
     "name:tha_x_variant":[
-        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e25\u0e39\u0e40\u0e0b\u0e35\u0e22"
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e25\u0e39\u0e40\u0e0b\u0e35\u0e22",
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e25\u0e39\u0e40\u0e0a\u0e35\u0e22"
     ],
     "name:tir_x_preferred":[
         "\u1234\u1295\u1275 \u1209\u127a\u12eb"
     ],
     "name:ton_x_preferred":[
         "Seini Lusia"
+    ],
+    "name:tuk_x_preferred":[
+        "Sent-L\u00fdusi\u00fda"
     ],
     "name:tur_x_preferred":[
         "Saint Lucia"
@@ -694,6 +770,9 @@
     "name:uzb_x_preferred":[
         "Sent Lusiya"
     ],
+    "name:uzb_x_variant":[
+        "Saint Lucia"
+    ],
     "name:vep_x_preferred":[
         "Sent L\u00fcsii"
     ],
@@ -707,6 +786,9 @@
     "name:vol_x_preferred":[
         "Sanlusiy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Saint Lucia"
+    ],
     "name:war_x_preferred":[
         "Santa Lucia (nasod)"
     ],
@@ -715,6 +797,9 @@
     ],
     "name:wol_x_preferred":[
         "Saint Lucia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u5362\u897f\u4e9a"
     ],
     "name:xal_x_preferred":[
         "\u0421\u0435\u043d\u043b\u04af\u04af\u0441\u0438\u043d \u041e\u0440\u043d"
@@ -728,7 +813,13 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Lu\u1e63ia"
     ],
+    "name:yue_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
+    ],
     "name:zea_x_preferred":[
+        "Saint Lucia"
+    ],
+    "name:zha_x_preferred":[
         "Saint Lucia"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -892,7 +983,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561830362,
+    "wof:lastmodified":1563284887,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
