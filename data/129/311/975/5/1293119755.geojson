@@ -26,6 +26,18 @@
     "iso:country":"LC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bouton"
+    ],
+    "name:fra_x_preferred":[
+        "Bouton"
+    ],
+    "name:por_x_preferred":[
+        "Bouton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1293119755,
-    "wof:lastmodified":1536819405,
+    "wof:lastmodified":1564169618,
     "wof:name":"Bouton",
     "wof:parent_id":85673711,
     "wof:placetype":"locality",

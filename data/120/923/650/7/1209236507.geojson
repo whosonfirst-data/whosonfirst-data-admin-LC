@@ -26,6 +26,63 @@
     "iso:country":"LC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0444\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Dauphin"
+    ],
+    "name:ces_x_preferred":[
+        "Dauphin"
+    ],
+    "name:deu_x_preferred":[
+        "Dauphin"
+    ],
+    "name:fin_x_preferred":[
+        "Dauphin"
+    ],
+    "name:fra_x_preferred":[
+        "Dauphin"
+    ],
+    "name:hun_x_preferred":[
+        "Dauphin"
+    ],
+    "name:ita_x_preferred":[
+        "Dauphin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30d5\u30a3\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Dauphin"
+    ],
+    "name:oci_x_preferred":[
+        "Dalfin"
+    ],
+    "name:pol_x_preferred":[
+        "Dauphin"
+    ],
+    "name:por_x_preferred":[
+        "Dauphin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0444\u0438\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Dauphin"
+    ],
+    "name:spa_x_preferred":[
+        "Dauphin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0444\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dauphin"
+    ],
+    "name:vol_x_preferred":[
+        "Dauphin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632369
@@ -35,7 +92,7 @@
         "gn:id":3576773
     },
     "wof:country":"LC",
-    "wof:geomhash":"7e2c8efedff62ecd8d0e3c48271ba946",
+    "wof:geomhash":"e49f35df8c519fe1190bea636565a941",
     "wof:hierarchy":[
         {
             "country_id":85632369,
@@ -43,7 +100,7 @@
         }
     ],
     "wof:id":1209236507,
-    "wof:lastmodified":1536293462,
+    "wof:lastmodified":1564169623,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"locality",
@@ -53,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.905330000000006,
-    14.039079999999998,
-    -60.905330000000006,
-    14.039079999999998
+    -60.90533000000001,
+    14.03908,
+    -60.90533000000001,
+    14.03908
 ],
   "geometry": {"coordinates":[-60.90533000000001,14.03908],"type":"Point"}
 }

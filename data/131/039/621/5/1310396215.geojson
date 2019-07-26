@@ -26,6 +26,33 @@
     "iso:country":"LC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Beauchamp"
+    ],
+    "name:fin_x_preferred":[
+        "Beauchamp"
+    ],
+    "name:fra_x_preferred":[
+        "Beauchamp"
+    ],
+    "name:ita_x_preferred":[
+        "Beauchamp"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30b7\u30e3\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0448\u0430\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0448\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Beauchamp"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0448\u0430\u043c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1310396215,
-    "wof:lastmodified":1537071585,
+    "wof:lastmodified":1564169628,
     "wof:name":"Beauchamp",
     "wof:parent_id":85673703,
     "wof:placetype":"locality",

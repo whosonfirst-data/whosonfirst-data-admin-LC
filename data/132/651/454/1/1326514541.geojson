@@ -26,6 +26,12 @@
     "iso:country":"LC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mamin"
+    ],
+    "name:nds_x_preferred":[
+        "Mamin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1326514541,
-    "wof:lastmodified":1537008878,
+    "wof:lastmodified":1564169607,
     "wof:name":"Mamin",
     "wof:parent_id":85673711,
     "wof:placetype":"locality",

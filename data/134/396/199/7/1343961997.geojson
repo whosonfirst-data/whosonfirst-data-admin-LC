@@ -26,6 +26,9 @@
     "iso:country":"LC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Au Tabor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343961997,
-    "wof:lastmodified":1537567957,
+    "wof:lastmodified":1564169611,
     "wof:name":"Au Tabor",
     "wof:parent_id":85673675,
     "wof:placetype":"locality",

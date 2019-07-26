@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0633\u0644\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0441\u043b\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Praslin Island"
+    ],
     "name:deu_x_preferred":[
         "Praslin"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub77c\uc2ac\ub7ad \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub77c\uc2ac\ub7ad\uc12c"
     ],
     "name:lit_x_preferred":[
         "Praslenas"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421204433,
-    "wof:lastmodified":1527716186,
+    "wof:lastmodified":1564169632,
     "wof:name":"Praslin",
     "wof:parent_id":85673707,
     "wof:placetype":"locality",
