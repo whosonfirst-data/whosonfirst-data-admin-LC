@@ -26,6 +26,30 @@
     "iso:country":"LC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Annum"
+    ],
+    "name:dan_x_preferred":[
+        "Annum"
+    ],
+    "name:hun_x_preferred":[
+        "Annum"
+    ],
+    "name:ind_x_preferred":[
+        "Annum"
+    ],
+    "name:ita_x_preferred":[
+        "Annum"
+    ],
+    "name:msa_x_preferred":[
+        "Annum"
+    ],
+    "name:nld_x_preferred":[
+        "Annum"
+    ],
+    "name:por_x_preferred":[
+        "Annum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1360277025,
-    "wof:lastmodified":1536668796,
+    "wof:lastmodified":1564169630,
     "wof:name":"Annus",
     "wof:parent_id":85673699,
     "wof:placetype":"locality",
