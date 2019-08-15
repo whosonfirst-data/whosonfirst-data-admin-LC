@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VF"
+    ],
     "lbl:latitude":13.776505,
     "lbl:longitude":-60.944755,
     "mps:latitude":13.776505,
@@ -257,16 +260,13 @@
         }
     ],
     "wof:id":85673717,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284880,
+    "wof:lastmodified":1565726546,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

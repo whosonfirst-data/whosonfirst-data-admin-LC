@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":13.792167,
     "lbl:longitude":-61.025947,
     "mps:latitude":13.792167,
@@ -200,16 +203,13 @@
         }
     ],
     "wof:id":85673683,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284884,
+    "wof:lastmodified":1565726546,
     "wof:name":"Choiseul",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

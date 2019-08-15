@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Dauphin Quarter"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DN"
+    ],
     "lbl:latitude":14.01977,
     "lbl:longitude":-60.91136,
     "mps:latitude":14.01977,
@@ -149,10 +152,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
         "gn:id":3576771,
         "gp:id":2347024,
-        "hasc:id":"LC.",
         "qs:id":507469,
         "wd:id":"Q182988",
         "wk:page":"Dauphin Quarter"
@@ -167,20 +168,18 @@
         }
     ],
     "wof:id":85673687,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284882,
+    "wof:lastmodified":1565910686,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"DN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

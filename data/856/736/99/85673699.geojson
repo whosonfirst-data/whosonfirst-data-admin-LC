@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LB"
+    ],
     "lbl:latitude":13.771048,
     "lbl:longitude":-60.986161,
     "mps:latitude":13.771048,
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85673699,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284883,
+    "wof:lastmodified":1565726546,
     "wof:name":"Laborie",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

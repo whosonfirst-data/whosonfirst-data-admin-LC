@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":13.849365,
     "lbl:longitude":-61.036251,
     "mps:latitude":13.849365,
@@ -209,16 +212,13 @@
         }
     ],
     "wof:id":85673711,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284880,
+    "wof:lastmodified":1565726546,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

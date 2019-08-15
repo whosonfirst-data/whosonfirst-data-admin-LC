@@ -16,6 +16,9 @@
         "1-758"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "LC"
+    ],
     "lbl:latitude":13.896235,
     "lbl:longitude":-60.974929,
     "mps:latitude":13.896235,
@@ -974,16 +977,13 @@
         }
     ],
     "wof:id":85632369,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284887,
+    "wof:lastmodified":1565726546,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

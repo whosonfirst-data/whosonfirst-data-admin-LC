@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Praslin Quarter"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PN"
+    ],
     "lbl:latitude":13.867361,
     "lbl:longitude":-60.925794,
     "mps:latitude":13.867361,
@@ -215,10 +218,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
         "gn:id":3576507,
         "gp:id":2347033,
-        "hasc:id":"LC.",
         "qs:id":1083867,
         "wd:id":"Q1567791",
         "wk:page":"Praslin Quarter"
@@ -233,20 +234,18 @@
         }
     ],
     "wof:id":85673707,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284881,
+    "wof:lastmodified":1565910673,
     "wof:name":"Praslin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lc",
+    "wof:shortcode":"PN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

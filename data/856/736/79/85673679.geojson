@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":13.994045,
     "lbl:longitude":-60.968345,
     "mps:latitude":13.994045,
@@ -209,16 +212,13 @@
         }
     ],
     "wof:id":85673679,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563284884,
+    "wof:lastmodified":1565726546,
     "wof:name":"Castries",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
