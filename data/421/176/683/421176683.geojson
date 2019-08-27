@@ -10,8 +10,12 @@
     "geom:latitude":13.77273,
     "geom:longitude":-61.04931,
     "iso:country":"LC",
+    "lbl:bbox":"-61.06931,13.75273,-61.02931,13.79273",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u064a\u0633\u064a\u0648\u0644\u060c \u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0430\u0437\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Choiseuil"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":3576795,
         "gp:id":162010,
-        "qs:id":1064420,
+        "qs_pg:id":1064420,
         "wd:id":"Q3556840",
         "wk:page":"Choiseul, Saint Lucia"
     },
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":421176683,
-    "wof:lastmodified":1563284911,
+    "wof:lastmodified":1566594095,
     "wof:name":"Choiseul",
     "wof:parent_id":85673683,
     "wof:placetype":"locality",

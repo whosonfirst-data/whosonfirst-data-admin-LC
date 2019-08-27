@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.771048,
     "lbl:longitude":-60.986161,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.771048,
     "mps:longitude":-60.986161,
     "mz:hierarchy_label":1,
@@ -142,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0431\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quarter of Laborie"
     ],
     "name:urd_x_preferred":[
@@ -224,9 +225,9 @@
     "qs:type":"Quarter",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-10",
+    "src:population_date":"2010-05-10",
     "statoids:area_km":"38",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2010-05-10",
@@ -251,7 +252,7 @@
         "gp:id":2347029,
         "hasc:id":"LC.LB",
         "iso:id":"LC-07",
-        "qs:id":1047418,
+        "qs_pg:id":1047418,
         "unlc:id":"LC-07",
         "wd:id":"Q599347",
         "wk:page":"Laborie Quarter"
@@ -272,11 +273,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565726546,
+    "wof:lastmodified":1566594087,
     "wof:name":"Laborie",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":6701,
     "wof:population_rank":5,

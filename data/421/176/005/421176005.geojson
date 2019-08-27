@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.935153,14.037257,-60.935153,14.037257",
     "geom:latitude":14.037257,
     "geom:longitude":-60.935153,
     "iso:country":"LC",
+    "lbl:bbox":"-60.955153,14.017257,-60.915153,14.057257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":162140,
-        "qs:id":1330225
+        "qs_pg:id":1330225
     },
     "wof:country":"LC",
     "wof:created":1459009087,
-    "wof:geomhash":"5bb48ed9c340c2b42e477b33d4eabd61",
+    "wof:geomhash":"dd51cf530f2c7366741e991933c57680",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421176005,
-    "wof:lastmodified":1466635842,
+    "wof:lastmodified":1566594095,
     "wof:name":"Vieux Sucreic",
     "wof:parent_id":85673695,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Lucia",
     "iso:country":"LC",
+    "lbl:bbox":"-61.0367,13.8133,-60.9967,13.8533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fond Saint Jaques",
         "Pond Saint Jacques",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293768213,
-    "wof:lastmodified":1537661326,
+    "wof:lastmodified":1566594088,
     "wof:name":"Fond Saint Jacques",
     "wof:parent_id":85673711,
     "wof:placetype":"locality",

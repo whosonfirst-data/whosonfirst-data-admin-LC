@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Lucia",
     "iso:country":"LC",
+    "lbl:bbox":"-60.97,13.73,-60.93,13.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Point Sable",
         "Pointe Sable"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243543535,
-    "wof:lastmodified":1537661325,
+    "wof:lastmodified":1566594096,
     "wof:name":"Pointe Sable",
     "wof:parent_id":85673717,
     "wof:placetype":"locality",

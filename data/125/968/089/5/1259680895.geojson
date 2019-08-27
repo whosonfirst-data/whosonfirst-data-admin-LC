@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Lucia",
     "iso:country":"LC",
+    "lbl:bbox":"-61.02692,13.76008,-60.98692,13.80008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1259680895,
-    "wof:lastmodified":1537067820,
+    "wof:lastmodified":1566594099,
     "wof:name":"Londonderry",
     "wof:parent_id":85673699,
     "wof:placetype":"locality",

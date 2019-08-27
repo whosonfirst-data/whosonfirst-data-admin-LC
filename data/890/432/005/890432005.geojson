@@ -11,10 +11,14 @@
     "geom:longitude":-61.06459,
     "gn:country":"LC",
     "gn:fcode":"PPL",
-    "gn:pop":701,
+    "gn:population":701,
     "iso:country":"LC",
+    "lbl:bbox":"-61.08459,13.88224,-61.04459,13.92224",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0627\u0644\u0643\u0646\u0627\u0631\u064a"
     ],
@@ -120,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0440\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Two Friends"
     ],
     "name:urd_x_preferred":[
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":3576830,
         "gp:id":162110,
-        "qs:id":583505,
+        "qs_pg:id":583505,
         "wd:id":"Q1032796",
         "wk:page":"Canaries"
     },
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":890432005,
-    "wof:lastmodified":1563284912,
+    "wof:lastmodified":1566594096,
     "wof:name":"Canaries",
     "wof:parent_id":85673711,
     "wof:placetype":"locality",

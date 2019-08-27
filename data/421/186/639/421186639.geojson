@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.940217,13.742936,-60.940217,13.742936",
     "geom:latitude":13.742936,
     "geom:longitude":-60.940217,
     "iso:country":"LC",
+    "lbl:bbox":"-60.960217,13.722936,-60.920217,13.762936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":162034,
-        "qs:id":1074907
+        "qs_pg:id":1074907
     },
     "wof:country":"LC",
     "wof:created":1459009487,
-    "wof:geomhash":"083b1395d1ca4103cbe2ec39e96d2ad8",
+    "wof:geomhash":"70936483bfe9ff2411f52c31f765a62a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421186639,
-    "wof:lastmodified":1466635863,
+    "wof:lastmodified":1566594094,
     "wof:name":"Eau Piquant",
     "wof:parent_id":85673717,
     "wof:placetype":"locality",

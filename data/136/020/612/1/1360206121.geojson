@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Lucia",
     "iso:country":"LC",
+    "lbl:bbox":"-61.00977,13.7493,-60.96977,13.7893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gentil"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1360206121,
-    "wof:lastmodified":1564169629,
+    "wof:lastmodified":1566594093,
     "wof:name":"Gentil",
     "wof:parent_id":85673699,
     "wof:placetype":"locality",

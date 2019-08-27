@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.776505,
     "lbl:longitude":-60.944755,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.776505,
     "mps:longitude":-60.944755,
     "mz:hierarchy_label":1,
@@ -122,7 +123,7 @@
         "Vieux-Fort"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0baf\u0bc2\u0bb8\u0bcd   \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0b95\u0bc1\u0b86\u0bb0\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd"
+        "\u0bb5\u0bbf\u0baf\u0bc2\u0bb8\u0bcd  \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b95\u0bc1\u0b86\u0bb0\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c4d\u0c2f\u0c42 \u0c2b\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c30\u0c4d\u0c1f\u0c30\u0c4d"
@@ -135,9 +136,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412'\u0454-\u0424\u043e\u0440\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Vieux-Fort"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0648 \u0641\u0648\u0631\u0679 \u06a9\u0648\u0627\u0631\u0679\u0631"
@@ -218,9 +216,9 @@
     "qs:type":"Quarter",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-10",
+    "src:population_date":"2010-05-10",
     "statoids:area_km":"44",
     "statoids:area_mi":"17",
     "statoids:as_of_date":"2010-05-10",
@@ -245,7 +243,7 @@
         "gp:id":2347032,
         "hasc:id":"LC.VF",
         "iso:id":"LC-11",
-        "qs:id":1083866,
+        "qs_pg:id":1083866,
         "unlc:id":"LC-11",
         "wd:id":"Q1472864",
         "wk:page":"Vieux Fort Quarter"
@@ -266,11 +264,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565726546,
+    "wof:lastmodified":1566594086,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":16284,
     "wof:population_rank":6,
