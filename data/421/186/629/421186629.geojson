@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.013603,13.979963,-61.013603,13.979963",
     "geom:latitude":13.979963,
     "geom:longitude":-61.013603,
     "iso:country":"LC",
+    "lbl:bbox":"-61.033603,13.959963,-60.993603,13.999963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":162055,
-        "qs:id":1074904
+        "qs_pg:id":1074904
     },
     "wof:country":"LC",
     "wof:created":1459009486,
-    "wof:geomhash":"12799a9540b2944975ba19f92e108156",
+    "wof:geomhash":"1aac9bd98491832963ae7169fc15bbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421186629,
-    "wof:lastmodified":1466635863,
+    "wof:lastmodified":1566594094,
     "wof:name":"Incommode",
     "wof:parent_id":85673675,
     "wof:placetype":"locality",

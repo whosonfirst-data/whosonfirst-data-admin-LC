@@ -11,10 +11,14 @@
     "geom:longitude":-60.9694,
     "gn:country":"LC",
     "gn:fcode":"PPL",
-    "gn:pop":36,
+    "gn:population":36,
     "iso:country":"LC",
+    "lbl:bbox":"-60.9894,14.01151,-60.9494,14.05151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Choc"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":3576799,
         "gp:id":161990,
-        "qs:id":95974
+        "qs_pg:id":95974
     },
     "wof:country":"LC",
     "wof:created":1469051322,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890420183,
-    "wof:lastmodified":1564169634,
+    "wof:lastmodified":1566594095,
     "wof:name":"Choc",
     "wof:parent_id":85673679,
     "wof:placetype":"locality",

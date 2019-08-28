@@ -10,8 +10,12 @@
     "geom:latitude":14.06667,
     "geom:longitude":-60.95,
     "iso:country":"LC",
+    "lbl:bbox":"-60.97,14.04667,-60.93,14.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062c\u0648\u0631\u0633"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Gros Islet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gros Islet Village"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3576686,
         "gp:id":162051,
-        "qs:id":211145,
+        "qs_pg:id":211145,
         "wd:id":"Q3116994",
         "wk:page":"Gros Islet"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421201343,
-    "wof:lastmodified":1563284910,
+    "wof:lastmodified":1566594095,
     "wof:name":"Gros Islet",
     "wof:parent_id":85673695,
     "wof:placetype":"locality",

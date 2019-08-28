@@ -10,8 +10,12 @@
     "geom:latitude":13.938565,
     "geom:longitude":-60.911893,
     "iso:country":"LC",
+    "lbl:bbox":"-60.931893,13.918565,-60.891893,13.958565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Lumi\u00e8re"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":162078,
-        "qs:id":966508
+        "qs_pg:id":966508
     },
     "wof:country":"LC",
     "wof:created":1459009361,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421183181,
-    "wof:lastmodified":1527716491,
+    "wof:lastmodified":1566594095,
     "wof:name":"Lumi\u00e8re",
     "wof:parent_id":85673689,
     "wof:placetype":"locality",

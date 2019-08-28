@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Lucia",
     "iso:country":"LC",
+    "lbl:bbox":"-61.03283,13.92277,-60.99283,13.96277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1193154663,
-    "wof:lastmodified":1536374529,
+    "wof:lastmodified":1566594091,
     "wof:name":"Bois d'Inde",
     "wof:parent_id":85673675,
     "wof:placetype":"locality",

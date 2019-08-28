@@ -10,8 +10,12 @@
     "geom:latitude":13.81667,
     "geom:longitude":-60.9,
     "iso:country":"LC",
+    "lbl:bbox":"-60.92,13.79667,-60.88,13.83667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Micoud"
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3576569,
         "gp:id":162090,
-        "qs:id":53689,
+        "qs_pg:id":53689,
         "wd:id":"Q11779522",
         "wk:page":"Micoud, Saint Lucia"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421190711,
-    "wof:lastmodified":1563284909,
+    "wof:lastmodified":1566594095,
     "wof:name":"Micoud",
     "wof:parent_id":85673703,
     "wof:placetype":"locality",

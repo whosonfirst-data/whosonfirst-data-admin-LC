@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.964851,13.735383,-60.964851,13.735383",
     "geom:latitude":13.735383,
     "geom:longitude":-60.964851,
     "iso:country":"LC",
+    "lbl:bbox":"-60.984851,13.715383,-60.944851,13.755383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":162074,
-        "qs:id":1053621
+        "qs_pg:id":1053621
     },
     "wof:country":"LC",
     "wof:created":1459009114,
-    "wof:geomhash":"715a7253831314f8d17784703b2f4a3b",
+    "wof:geomhash":"f884ac44d0f9dd75399b4ba007d9471f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421176629,
-    "wof:lastmodified":1466635843,
+    "wof:lastmodified":1566594095,
     "wof:name":"La Retraite",
     "wof:parent_id":85673717,
     "wof:placetype":"locality",
