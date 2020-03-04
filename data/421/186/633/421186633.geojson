@@ -381,6 +381,9 @@
     },
     "wof:country":"LC",
     "wof:created":1459009487,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af5884cc98892b487b8a87dc53c19d80",
     "wof:hierarchy":[
         {
@@ -391,7 +394,7 @@
         }
     ],
     "wof:id":421186633,
-    "wof:lastmodified":1566594094,
+    "wof:lastmodified":1582343810,
     "wof:name":"Castries",
     "wof:parent_id":85673679,
     "wof:placetype":"locality",

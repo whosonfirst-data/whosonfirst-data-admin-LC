@@ -95,6 +95,9 @@
     },
     "wof:country":"LC",
     "wof:created":1459009046,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5193c9e2ea80185a15a719d2e93f852",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421174871,
-    "wof:lastmodified":1566594094,
+    "wof:lastmodified":1582343810,
     "wof:name":"Anse la Raye",
     "wof:parent_id":85673675,
     "wof:placetype":"locality",

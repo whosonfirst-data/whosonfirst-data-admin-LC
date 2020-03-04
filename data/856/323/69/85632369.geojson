@@ -970,6 +970,10 @@
     },
     "wof:country":"LC",
     "wof:country_alpha3":"LCA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"3770b53665e6e3855e935f5e3c20d7fc",
     "wof:hierarchy":[
         {
@@ -984,7 +988,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566594087,
+    "wof:lastmodified":1583222762,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
