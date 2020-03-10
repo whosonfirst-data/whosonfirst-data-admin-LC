@@ -946,9 +946,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Saint_Lucia",
-        "digitalenvoy:country_code":[
-            662
-        ],
+        "digitalenvoy:country_code":662,
         "fb:id":"en.saint_lucia",
         "fifa:id":"LCA",
         "fips:code":"ST",
@@ -991,7 +989,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529175,
+    "wof:lastmodified":1583797382,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
