@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051713,
-    "geom:area_square_m":620726064.919983,
+    "geom:area_square_m":620726171.194887,
     "geom:bbox":"-61.081276,13.70475,-60.873306,14.108417",
     "geom:latitude":13.896369,
     "geom:longitude":-60.967792,
@@ -47,6 +47,9 @@
     "name:amh_x_variant":[
         "\u1234\u1295\u1275 \u1209\u127a\u12eb"
     ],
+    "name:ang_x_preferred":[
+        "Sancte Luc\u012ba"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:arg_x_variant":[
         "Santa Luc\u00eda"
+    ],
+    "name:ary_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
@@ -166,6 +172,12 @@
     "name:dan_x_preferred":[
         "Saint Lucia"
     ],
+    "name:deu_at_x_preferred":[
+        "St. Lucia"
+    ],
+    "name:deu_ch_x_preferred":[
+        "St. Lucia"
+    ],
     "name:deu_x_preferred":[
         "St. Lucia"
     ],
@@ -183,6 +195,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u039b\u03bf\u03c5\u03ba\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Saint Lucia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Saint Lucia"
     ],
     "name:eng_x_preferred":[
         "St. Lucia"
@@ -250,6 +268,12 @@
     ],
     "name:ful_x_preferred":[
         "Sent Lusiyaa"
+    ],
+    "name:gag_x_preferred":[
+        "Sent Lu\u021biya"
+    ],
+    "name:gcr_x_preferred":[
+        "Sentlisi"
     ],
     "name:ger_x_variant":[
         "Sankt Lucia"
@@ -525,6 +549,9 @@
     "name:myv_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f"
     ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u0627"
+    ],
     "name:nah_x_preferred":[
         "Santa Luc\u00eda"
     ],
@@ -670,6 +697,9 @@
     "name:sna_x_preferred":[
         "Saint Lucia"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u064a\u0646\u067d \u0644\u0648\u0633\u064a\u0627"
+    ],
     "name:som_x_preferred":[
         "Saint Lucia"
     ],
@@ -684,6 +714,9 @@
     ],
     "name:sqi_x_preferred":[
         "Sh\u00ebn Lu\u00e7ia"
+    ],
+    "name:srd_x_preferred":[
+        "Saint Lucia"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0430 \u041b\u0443\u0446\u0438\u0458\u0430"
@@ -757,6 +790,9 @@
     "name:tur_x_preferred":[
         "Saint Lucia"
     ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0633\u06d0\u0646\u062a \u0644\u064a\u06c7\u0633\u0649\u064a\u06d5"
     ],
@@ -826,8 +862,23 @@
     "name:zha_x_preferred":[
         "Saint Lucia"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5362\u897f\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "S\u00e8ng Lucia"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5723\u5362\u897f\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u9732\u897f\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u5723\u5362\u897f\u4e9a"
@@ -989,7 +1040,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797382,
+    "wof:lastmodified":1587428243,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
