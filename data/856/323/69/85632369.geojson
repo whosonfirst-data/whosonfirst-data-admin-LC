@@ -9,7 +9,6 @@
     "geom:bbox":"-61.081276,13.70475,-60.873306,14.108417",
     "geom:latitude":13.896369,
     "geom:longitude":-60.967792,
-    "gn:id":"",
     "gn:population":160922,
     "iso:country":"LC",
     "itu:country_code":[
@@ -1040,7 +1039,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1587428243,
+    "wof:lastmodified":1603255996,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

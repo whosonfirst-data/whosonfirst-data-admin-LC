@@ -9,7 +9,6 @@
     "geom:bbox":"-61.0668839182,13.8664773608,-60.9806270791,13.9873721371",
     "geom:latitude":13.927987,
     "geom:longitude":-61.013986,
-    "gn:id":"",
     "iso:country":"LC",
     "label:eng_x_preferred_longname":[
         "Anse-la-Raye District"
@@ -269,7 +268,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566594086,
+    "wof:lastmodified":1603255996,
     "wof:name":"Anse-la-Raye",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
