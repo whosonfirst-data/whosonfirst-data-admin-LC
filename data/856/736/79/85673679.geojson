@@ -29,11 +29,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0633\u062a\u0631\u064a\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u09b8\u09cd\u09a4\u09cd\u09b0\u09bf\u09df\u09c7\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Castries"
     ],
     "name:deu_x_preferred":[
         "Castries"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Castries"
@@ -49,6 +58,15 @@
     ],
     "name:fra_x_variant":[
         "District de Castries"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05d8\u05e8\u05d9\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0938\u094d\u091f\u094d\u0930\u0940\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Castries"
     ],
     "name:ind_x_preferred":[
         "Kuarter Castries"
@@ -75,6 +93,9 @@
         "Castries"
     ],
     "name:pol_x_preferred":[
+        "Castries"
+    ],
+    "name:por_x_preferred":[
         "Castries"
     ],
     "name:rus_x_preferred":[
@@ -222,7 +243,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895895,
+    "wof:lastmodified":1636500439,
     "wof:name":"Castries",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

@@ -57,6 +57,9 @@
     "name:heb_x_preferred":[
         "\u05d6'\u05d0\u05e7\u05de\u05dc"
     ],
+    "name:hun_x_preferred":[
+        "Jacmel"
+    ],
     "name:ita_x_preferred":[
         "Jacmel"
     ],
@@ -125,7 +128,7 @@
         "gn:id":7778660
     },
     "wof:country":"LC",
-    "wof:geomhash":"79a57f9576dd005c1ff94fbadc9faf8c",
+    "wof:geomhash":"234baabf855fa5cc6cf800a6d89a5069",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1242591917,
-    "wof:lastmodified":1566594097,
+    "wof:lastmodified":1636500441,
     "wof:name":"Jacmel",
     "wof:parent_id":85673675,
     "wof:placetype":"locality",
@@ -145,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.01708000000001,
+    -61.01708,
     13.9506,
-    -61.01708000000001,
+    -61.01708,
     13.9506
 ],
-  "geometry": {"coordinates":[-61.01708000000001,13.9506],"type":"Point"}
+  "geometry": {"coordinates":[-61.01708,13.9506],"type":"Point"}
 }

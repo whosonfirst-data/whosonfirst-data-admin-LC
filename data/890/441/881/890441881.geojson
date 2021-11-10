@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:hun_x_preferred":[
+        "Dennery"
+    ],
     "qs:name":"Dennery",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890441881,
-    "wof:lastmodified":1566594095,
+    "wof:lastmodified":1636500441,
     "wof:name":"Dennery",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

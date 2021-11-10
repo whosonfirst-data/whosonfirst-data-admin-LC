@@ -77,6 +77,9 @@
     "name:hin_x_preferred":[
         "\u0921\u0947\u0928\u0947\u0930\u0940 \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u0930"
     ],
+    "name:hun_x_preferred":[
+        "Dennery"
+    ],
     "name:ind_x_preferred":[
         "Dennery Quarter"
     ],
@@ -273,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895895,
+    "wof:lastmodified":1636500438,
     "wof:name":"Dennery",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

@@ -25,6 +25,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0641\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u0989\u09ab\u09bf\u09a8"
+    ],
     "name:deu_x_preferred":[
         "Dauphin"
     ],
@@ -44,6 +50,21 @@
         "\u0628\u062e\u0634 \u062f\u0627\u0648\u0641\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
+        "Dauphin Island"
+    ],
+    "name:fra_x_variant":[
+        "Dauphin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05d5\u05e4\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u094c\u092b\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Dauphin"
+    ],
+    "name:ind_x_preferred":[
         "Dauphin"
     ],
     "name:ita_x_preferred":[
@@ -61,6 +82,15 @@
     "name:nld_x_preferred":[
         "Dauphin Quarter"
     ],
+    "name:pol_x_preferred":[
+        "Dauphin"
+    ],
+    "name:por_x_preferred":[
+        "Dauphin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0444\u0438\u043d"
+    ],
     "name:spa_x_preferred":[
         "Dauphin"
     ],
@@ -70,8 +100,14 @@
     "name:tur_x_preferred":[
         "Dauphin"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0444\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Quarter of Dauphin"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0627\u0641\u0646"
     ],
     "name:vie_x_preferred":[
         "Dauphin"
@@ -178,7 +214,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895895,
+    "wof:lastmodified":1636500438,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Micoud"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05e1\u05d8\u05e8 \u05ea\u05d9\u05db\u05d5\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Micoud"
+    ],
     "name:jpn_x_preferred":[
         "\u30df\u30af\u30c3\u30c9"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421190711,
-    "wof:lastmodified":1566594095,
+    "wof:lastmodified":1636500440,
     "wof:name":"Micoud",
     "wof:parent_id":85673703,
     "wof:placetype":"locality",

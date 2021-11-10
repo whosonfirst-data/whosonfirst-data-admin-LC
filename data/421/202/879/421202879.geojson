@@ -33,7 +33,13 @@
         "Vieux Fort"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d1\u05e6\u05e8 \u05d5\u05d5\u05d9\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05d5\u05d5\u05d9\u05d5 \u05e4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Vieux Fort"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30e5\u30fc\u30d5\u30a9\u30fc\u30c8"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421202879,
-    "wof:lastmodified":1566594094,
+    "wof:lastmodified":1636500440,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85673717,
     "wof:placetype":"locality",

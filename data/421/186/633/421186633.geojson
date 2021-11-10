@@ -128,6 +128,9 @@
         "Kastri"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05d8\u05e8\u05d9\u05d6"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05e1\u05d8\u05e8\u05d9\u05d6"
     ],
     "name:hif_x_preferred":[
@@ -396,7 +399,7 @@
         }
     ],
     "wof:id":421186633,
-    "wof:lastmodified":1607390890,
+    "wof:lastmodified":1636500440,
     "wof:name":"Castries",
     "wof:parent_id":85673679,
     "wof:placetype":"locality",

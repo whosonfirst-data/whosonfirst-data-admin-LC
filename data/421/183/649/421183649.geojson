@@ -32,6 +32,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05d1\u05d5\u05e8\u05d9"
     ],
+    "name:hun_x_preferred":[
+        "Laborie"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30dc\u30ea\u30fc"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421183649,
-    "wof:lastmodified":1566594095,
+    "wof:lastmodified":1636500440,
     "wof:name":"Laborie",
     "wof:parent_id":85673699,
     "wof:placetype":"locality",
