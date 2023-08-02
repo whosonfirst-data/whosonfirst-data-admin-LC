@@ -95,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc559\uc2a4\ub77c\ub808 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc559\uc2a4\ub77c\ub808\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Anslavua"
     ],
@@ -124,6 +127,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0441-\u041b\u0430\u0432\u0443\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0441-\u043b\u0430-\u0420\u0435\u0439"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0db1\u0dca\u0dc3\u0dda \u0dbd\u0dcf \u0dbb\u0dba\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dbb\u0dca"
@@ -278,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500438,
+    "wof:lastmodified":1690938524,
     "wof:name":"Anse-la-Raye",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

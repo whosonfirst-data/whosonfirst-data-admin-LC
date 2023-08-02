@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Anse La Raye"
+    ],
     "name:ceb_x_preferred":[
         "Anse La Raye"
     ],
@@ -35,6 +38,9 @@
     "name:fra_x_preferred":[
         "Anse-la-Raye"
     ],
+    "name:ita_x_preferred":[
+        "Anse-la-Raye"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30b9\u30fb\u30e9\u30fb\u30ec\u30a4"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Anse la Raye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u043b\u0430-\u0420\u0435\u0439"
     ],
     "name:spa_x_preferred":[
         "Anse La Raye"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":421174871,
-    "wof:lastmodified":1582343810,
+    "wof:lastmodified":1690938525,
     "wof:name":"Anse la Raye",
     "wof:parent_id":85673675,
     "wof:placetype":"locality",

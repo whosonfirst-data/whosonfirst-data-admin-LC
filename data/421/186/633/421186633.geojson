@@ -31,11 +31,26 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u062a\u0631\u064a\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Castries"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0627\u0633\u062a\u0631\u064a\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0633\u062a\u0631\u064a\u0633"
+    ],
     "name:ast_x_preferred":[
+        "Castries"
+    ],
+    "name:avk_x_preferred":[
         "Castries"
     ],
     "name:aze_x_preferred":[
         "Kastris"
+    ],
+    "name:ban_x_preferred":[
+        "Castries"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u044b"
@@ -79,6 +94,9 @@
     "name:deu_x_preferred":[
         "Castries"
     ],
+    "name:diq_x_preferred":[
+        "Castries"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c3\u03c4\u03c1\u03b9\u03c2"
     ],
@@ -103,10 +121,16 @@
     "name:fra_x_preferred":[
         "Castries"
     ],
+    "name:frr_x_preferred":[
+        "Castries"
+    ],
     "name:fry_x_preferred":[
         "Kastrys"
     ],
     "name:gla_x_preferred":[
+        "Castries"
+    ],
+    "name:gle_x_preferred":[
         "Castries"
     ],
     "name:glg_x_preferred":[
@@ -187,6 +211,9 @@
     "name:lav_x_preferred":[
         "Kastri"
     ],
+    "name:lij_x_preferred":[
+        "Castries"
+    ],
     "name:lit_x_preferred":[
         "Kastris"
     ],
@@ -238,6 +265,9 @@
     "name:olo_x_preferred":[
         "Kastri"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438"
+    ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3e\u0a38\u0a24\u0a30\u0a40\u0a38"
     ],
@@ -248,6 +278,9 @@
         "Castries"
     ],
     "name:por_x_preferred":[
+        "Castries"
+    ],
+    "name:ron_x_preferred":[
         "Castries"
     ],
     "name:rus_x_preferred":[
@@ -274,6 +307,9 @@
     "name:spa_x_preferred":[
         "Castries"
     ],
+    "name:srd_x_preferred":[
+        "Castries"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0438"
     ],
@@ -295,6 +331,9 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c3e\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c40\u0c38\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Castries"
     ],
@@ -303,6 +342,9 @@
     ],
     "name:tur_x_preferred":[
         "Castries"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0456"
@@ -324,6 +366,9 @@
     ],
     "name:war_x_preferred":[
         "Castries"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u65af\u7279\u91cc"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10e1\u10e2\u10e0\u10d8"
@@ -399,7 +444,7 @@
         }
     ],
     "wof:id":421186633,
-    "wof:lastmodified":1636500440,
+    "wof:lastmodified":1690938526,
     "wof:name":"Castries",
     "wof:parent_id":85673679,
     "wof:placetype":"locality",

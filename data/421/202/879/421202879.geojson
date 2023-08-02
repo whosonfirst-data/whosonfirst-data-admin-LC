@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Vieux Fort"
+    ],
     "name:ceb_x_preferred":[
         "Vieux Fort"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Vieux Fort"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0648 \u0641\u0648\u0631\u062a"
     ],
     "name:fra_x_preferred":[
         "Vieux Fort"
@@ -41,6 +47,9 @@
     "name:hun_x_preferred":[
         "Vieux Fort"
     ],
+    "name:ita_x_preferred":[
+        "Vieux Fort"
+    ],
     "name:jpn_x_preferred":[
         "\u30f4\u30e5\u30fc\u30d5\u30a9\u30fc\u30c8"
     ],
@@ -52,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "Vieux Fort"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044c\u0451-\u0424\u043e\u0440"
     ],
     "name:spa_x_preferred":[
         "Vieux Fort"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421202879,
-    "wof:lastmodified":1636500440,
+    "wof:lastmodified":1690938525,
     "wof:name":"Vieux Fort",
     "wof:parent_id":85673717,
     "wof:placetype":"locality",

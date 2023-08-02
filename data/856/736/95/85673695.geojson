@@ -37,6 +37,12 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09cb\u09b8 \u0987\u099c\u09b2\u09c7\u099f \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09cd\u09b0\u09cb\u09b8  \u0987\u099c\u09b2\u09c7\u099f \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Gros Islet"
+    ],
     "name:ceb_x_preferred":[
         "Gros-Islet"
     ],
@@ -90,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uadf8\ub85c\uc2a4\uc544\uc77c\ub81b \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uadf8\ub85c\uc2a4\uc544\uc77c\ub81b\uad6c"
     ],
     "name:lav_x_preferred":[
         "Grozil\u0113"
@@ -150,6 +159,9 @@
     ],
     "name:zho_x_preferred":[
         "\u683c\u7f85\u65af\u4f0a\u65af\u52d2\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u683c\u7f57\u827e\u52d2\u7279\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LCA",
@@ -269,7 +281,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500438,
+    "wof:lastmodified":1690938523,
     "wof:name":"Gros Islet",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

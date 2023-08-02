@@ -95,6 +95,9 @@
     "name:kor_x_preferred":[
         "\ub370\ub124\ub9ac \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ub124\ub9ac\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Dener\u012b"
     ],
@@ -276,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500438,
+    "wof:lastmodified":1690938523,
     "wof:name":"Dennery",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
