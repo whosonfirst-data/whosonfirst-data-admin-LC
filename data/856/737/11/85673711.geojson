@@ -68,6 +68,9 @@
     "name:kor_x_preferred":[
         "\uc218\ud504\ub9ac\uc5d0\ub974 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc218\ud504\ub9ac\uc5d0\ub974\uad6c"
+    ],
     "name:lit_x_preferred":[
         "Sufrieras"
     ],
@@ -222,7 +225,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895895,
+    "wof:lastmodified":1690938522,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

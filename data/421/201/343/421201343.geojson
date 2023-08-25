@@ -17,8 +17,47 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Gros Islet"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062c\u0648\u0631\u0633"
+    ],
+    "name:arg_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062c\u0648\u0631\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:bar_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:bos_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:bre_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:cat_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:ces_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:cor_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:cos_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:cym_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:dan_x_preferred":[
+        "Gros Islet"
     ],
     "name:deu_x_preferred":[
         "Gros Islet"
@@ -29,10 +68,37 @@
     "name:eng_x_preferred":[
         "Gros Islet"
     ],
+    "name:epo_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:est_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:eus_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:fao_x_preferred":[
+        "Gros Islet"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0631\u0627\u0633 \u0627\u06cc\u0632\u0644\u062a"
     ],
+    "name:fin_x_preferred":[
+        "Gros Islet"
+    ],
     "name:fra_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:gla_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:gle_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:glg_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:glv_x_preferred":[
         "Gros Islet"
     ],
     "name:heb_x_preferred":[
@@ -41,7 +107,19 @@
     "name:heb_x_variant":[
         "\u05d2\u05e8\u05d5 \u05d0\u05d9\u05e1\u05dc\u05d8"
     ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0930\u094b\u0938 \u0906\u0907\u0932\u0947\u091f"
+    ],
+    "name:hrv_x_preferred":[
+        "Gros Islet"
+    ],
     "name:hun_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:ind_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:isl_x_preferred":[
         "Gros Islet"
     ],
     "name:ita_x_preferred":[
@@ -50,16 +128,67 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30ed\u30b9\u30fb\u30a4\u30b9\u30ec\u30c3\u30c8"
     ],
+    "name:lav_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:lit_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:ltz_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:mlt_x_preferred":[
+        "Gros Islet"
+    ],
     "name:nld_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:nno_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:nrm_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:oci_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:pms_x_preferred":[
         "Gros Islet"
     ],
     "name:pol_x_preferred":[
         "Gros Islet"
     ],
+    "name:por_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:roh_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:ron_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:slk_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:slv_x_preferred":[
+        "Gros Islet"
+    ],
     "name:spa_x_preferred":[
         "Gros Islet"
     ],
+    "name:sqi_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u043e\u0441 \u0418\u043b\u0435"
+    ],
     "name:swe_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:tah_x_preferred":[
+        "Gros Islet"
+    ],
+    "name:tur_x_preferred":[
         "Gros Islet"
     ],
     "name:und_x_variant":[
@@ -68,8 +197,14 @@
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u06af\u0631\u0648\u0633"
     ],
+    "name:wln_x_preferred":[
+        "Gros Islet"
+    ],
     "name:zho_x_preferred":[
         "\u683c\u7f85\u65af\u4f0a\u65af\u52d2"
+    ],
+    "name:zul_x_preferred":[
+        "Gros Islet"
     ],
     "qs:gn_country":"LC",
     "qs:gn_fcode":"PPL",
@@ -120,7 +255,7 @@
         }
     ],
     "wof:id":421201343,
-    "wof:lastmodified":1636500440,
+    "wof:lastmodified":1690938527,
     "wof:name":"Gros Islet",
     "wof:parent_id":85673695,
     "wof:placetype":"locality",

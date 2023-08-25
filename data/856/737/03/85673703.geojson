@@ -96,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ubbf8\ucfe0 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\ucfe0\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Mik\u016b"
     ],
@@ -280,7 +283,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500437,
+    "wof:lastmodified":1690938522,
     "wof:name":"Micoud",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

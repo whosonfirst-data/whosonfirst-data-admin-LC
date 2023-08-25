@@ -85,6 +85,9 @@
     "name:kor_x_preferred":[
         "\ud504\ub77c\uc2ac\ub7ad \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud504\ub77c\uc2ac\ub7ad\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Prasl\u0113na"
     ],
@@ -247,7 +250,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500438,
+    "wof:lastmodified":1690938523,
     "wof:name":"Praslin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

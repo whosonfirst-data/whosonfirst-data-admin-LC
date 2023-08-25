@@ -62,6 +62,9 @@
     "name:kor_x_preferred":[
         "\uc288\uc544\uc8cc \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc288\uc544\uc8cc\uad6c"
+    ],
     "name:lit_x_preferred":[
         "\u0160uazelis"
     ],
@@ -216,7 +219,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500439,
+    "wof:lastmodified":1690938524,
     "wof:name":"Choiseul",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

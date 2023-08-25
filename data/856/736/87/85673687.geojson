@@ -76,6 +76,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\ud33d \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ud33d\uad6c"
+    ],
     "name:lit_x_preferred":[
         "Daufinas"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0444\u0438\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u043e\u0444\u0435\u043d"
     ],
     "name:spa_x_preferred":[
         "Dauphin"
@@ -214,7 +220,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500438,
+    "wof:lastmodified":1690938523,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

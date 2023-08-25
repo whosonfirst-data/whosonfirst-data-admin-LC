@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Laborie"
+    ],
+    "name:ceb_x_preferred":[
+        "Laborie"
+    ],
+    "name:ces_x_preferred":[
+        "Laborie"
+    ],
     "name:cym_x_preferred":[
         "Laborie"
     ],
@@ -29,10 +38,19 @@
     "name:eng_x_preferred":[
         "Laborie"
     ],
+    "name:fra_x_preferred":[
+        "Laborie"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05d1\u05d5\u05e8\u05d9"
     ],
+    "name:hrv_x_preferred":[
+        "Laborie"
+    ],
     "name:hun_x_preferred":[
+        "Laborie"
+    ],
+    "name:ita_x_preferred":[
         "Laborie"
     ],
     "name:jpn_x_preferred":[
@@ -47,7 +65,13 @@
     "name:pol_x_preferred":[
         "Laborie"
     ],
+    "name:slk_x_preferred":[
+        "Laborie"
+    ],
     "name:spa_x_preferred":[
+        "Laborie"
+    ],
+    "name:swe_x_preferred":[
         "Laborie"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +129,7 @@
         }
     ],
     "wof:id":421183649,
-    "wof:lastmodified":1636500440,
+    "wof:lastmodified":1690938527,
     "wof:name":"Laborie",
     "wof:parent_id":85673699,
     "wof:placetype":"locality",

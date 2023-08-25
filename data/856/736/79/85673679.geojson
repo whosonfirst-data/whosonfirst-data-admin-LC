@@ -50,6 +50,9 @@
     "name:eng_x_variant":[
         "Castries Quarter"
     ],
+    "name:epo_x_preferred":[
+        "Castries"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u06a9\u0627\u0633\u062a\u0631\u06cc\u0633"
     ],
@@ -80,6 +83,9 @@
     "name:kor_x_preferred":[
         "\uce90\uc2a4\ud2b8\ub9ac\uc2a4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce90\uc2a4\ud2b8\ub9ac\uc2a4\uad6c"
+    ],
     "name:lit_x_preferred":[
         "Kastrio kvartalas"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:tur_x_preferred":[
         "Castries"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0456"
     ],
     "name:und_x_variant":[
         "Quarter of Castries"
@@ -243,7 +252,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500439,
+    "wof:lastmodified":1690938524,
     "wof:name":"Castries",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
