@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003892,
-    "geom:area_square_m":46687057.215242,
+    "geom:area_square_m":46686842.686949,
     "geom:bbox":"-60.940522,13.979272,-60.882965,14.073391",
     "geom:latitude":14.020256,
     "geom:longitude":-60.910812,
     "iso:country":"LC",
     "label:eng_x_preferred_longname":[
-        "Dauphin Quarter"
+        "Dauphin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "DN"
@@ -205,7 +208,7 @@
         "wk:page":"Dauphin Quarter"
     },
     "wof:country":"LC",
-    "wof:geomhash":"635f9be6ac3b32e809042b18fea7e106",
+    "wof:geomhash":"91c5c3f3dc8cf1a15e8f1557f865de8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -220,7 +223,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938523,
+    "wof:lastmodified":1694493257,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
