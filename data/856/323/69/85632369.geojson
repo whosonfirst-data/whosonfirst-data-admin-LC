@@ -1102,7 +1102,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"1-758",
     "statoids:ds":"WL",
     "statoids:fifa":"LCA",
@@ -1174,7 +1174,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694492215,
+    "wof:lastmodified":1694639668,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
