@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00448,
-    "geom:area_square_m":53776058.890257,
+    "geom:area_square_m":53776597.896488,
     "geom:bbox":"-60.964335,13.832639,-60.890225,13.908475",
     "geom:latitude":13.869576,
     "geom:longitude":-60.925794,
     "iso:country":"LC",
     "label:eng_x_preferred_longname":[
-        "Praslin Quarter"
+        "Praslin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "PN"
@@ -235,7 +238,7 @@
         "wk:page":"Praslin Quarter"
     },
     "wof:country":"LC",
-    "wof:geomhash":"bd47d8a2b5e5486b61779ad6a147715a",
+    "wof:geomhash":"526ee0ae073fd45993ccb266f466ca27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -250,7 +253,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938523,
+    "wof:lastmodified":1694493257,
     "wof:name":"Praslin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

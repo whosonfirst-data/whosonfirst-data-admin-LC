@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051713,
-    "geom:area_square_m":620726171.194887,
+    "geom:area_square_m":620726171.194663,
     "geom:bbox":"-61.081276,13.70475,-60.873306,14.108417",
     "geom:latitude":13.896369,
     "geom:longitude":-60.967792,
@@ -16,6 +16,9 @@
         "1-758"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "LC"
     ],
@@ -1098,7 +1101,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"1-758",
     "statoids:ds":"WL",
     "statoids:fifa":"LCA",
@@ -1156,7 +1160,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"cd242586c92cdc3789f40b7b344a71dc",
+    "wof:geomhash":"32564c0bda9ffb56e948036781ad7c17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1170,12 +1174,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938525,
+    "wof:lastmodified":1694639668,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":182273,
-    "wof:population_rank":9,
+    "wof:population":182790,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-lc",
     "wof:shortcode":"LC",
     "wof:superseded_by":[],
