@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007819,
-    "geom:area_square_m":93870700.546996,
+    "geom:area_square_m":93870008.004741,
     "geom:bbox":"-61.078521,13.792182,-60.960575,13.909089",
     "geom:latitude":13.854849,
     "geom:longitude":-61.030443,
@@ -203,14 +203,16 @@
         "gn:id":3576441,
         "gp:id":2347031,
         "hasc:id":"LC.CO",
+        "iso:code":"LC-10",
         "iso:id":"LC-10",
         "qs_pg:id":318870,
         "unlc:id":"LC-10",
         "wd:id":"Q1472841",
         "wk:page":"Soufri\u00e8re Quarter"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"6b6f43fd9f097ab9ad980f6cdbecac23",
+    "wof:geomhash":"db25e794d2ba58b2b09276fc82724d37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -225,7 +227,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938522,
+    "wof:lastmodified":1695884535,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

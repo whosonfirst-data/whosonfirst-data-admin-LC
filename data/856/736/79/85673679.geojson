@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006518,
-    "geom:area_square_m":78211122.797771,
+    "geom:area_square_m":78210708.764621,
     "geom:bbox":"-61.026601,13.87901,-60.935588,14.043524",
     "geom:latitude":13.976414,
     "geom:longitude":-60.972827,
@@ -230,14 +230,16 @@
         "gn:id":3576810,
         "gp:id":2347025,
         "hasc:id":"LC.CS",
+        "iso:code":"LC-02",
         "iso:id":"LC-02",
         "qs_pg:id":1083865,
         "unlc:id":"LC-02",
         "wd:id":"Q1049867",
         "wk:page":"Castries Quarter"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"9ab524a3e32eadde6448d28bc5aea2f4",
+    "wof:geomhash":"ae7672739016f169804a7aec4d9cec48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -252,7 +254,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938524,
+    "wof:lastmodified":1695884866,
     "wof:name":"Castries",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003875,
-    "geom:area_square_m":46478464.663688,
+    "geom:area_square_m":46478541.861509,
     "geom:bbox":"-60.97997,14.017963,-60.901031,14.111884",
     "geom:latitude":14.065256,
     "geom:longitude":-60.943376,
@@ -259,14 +259,16 @@
         "gn:id":3576685,
         "gp:id":2347028,
         "hasc:id":"LC.GI",
+        "iso:code":"LC-06",
         "iso:id":"LC-06",
         "qs_pg:id":222840,
         "unlc:id":"LC-06",
         "wd:id":"Q953557",
         "wk:page":"Gros Islet Quarter"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"823fe99aac8b5a9d1ec1ea463595f1ac",
+    "wof:geomhash":"d2b172957ad82442f69874ba27fb5a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -281,7 +283,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938523,
+    "wof:lastmodified":1695884866,
     "wof:name":"Gros Islet",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

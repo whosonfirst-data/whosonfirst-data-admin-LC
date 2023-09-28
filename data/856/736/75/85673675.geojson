@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006486,
-    "geom:area_square_m":77836107.897333,
+    "geom:area_square_m":77836655.286678,
     "geom:bbox":"-61.066884,13.866477,-60.980627,13.987372",
     "geom:latitude":13.927987,
     "geom:longitude":-61.013986,
@@ -263,13 +263,15 @@
         "gn:id":3576891,
         "gp:id":2347023,
         "hasc:id":"LC.AR",
+        "iso:code":"LC-01",
         "iso:id":"LC-01",
         "qs_pg:id":900758,
         "unlc:id":"LC-01",
         "wd:id":"Q1676934"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"25d1716a0aa031ce4c18d4a3c4dba677",
+    "wof:geomhash":"193d7abb1ec6b30b47db00141faf40bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938524,
+    "wof:lastmodified":1695884865,
     "wof:name":"Anse-la-Raye",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

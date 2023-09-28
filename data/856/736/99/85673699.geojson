@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002861,
-    "geom:area_square_m":34364702.753764,
+    "geom:area_square_m":34364513.90802,
     "geom:bbox":"-61.018923,13.730641,-60.96245,13.8308",
     "geom:latitude":13.774661,
     "geom:longitude":-60.985733,
@@ -263,14 +263,16 @@
         "gn:id":3576662,
         "gp:id":2347029,
         "hasc:id":"LC.LB",
+        "iso:code":"LC-07",
         "iso:id":"LC-07",
         "qs_pg:id":1047418,
         "unlc:id":"LC-07",
         "wd:id":"Q599347",
         "wk:page":"Laborie Quarter"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"634c74b876484a016e406a6f54c8d3f4",
+    "wof:geomhash":"9babc860877e58e389d1e694e48c0367",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -285,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938524,
+    "wof:lastmodified":1695884866,
     "wof:name":"Laborie",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

@@ -233,10 +233,12 @@
     "wof:concordances":{
         "gn:id":3576507,
         "gp:id":2347033,
+        "iso:code_pseudo":"LC-08",
         "qs_pg:id":1083867,
         "wd:id":"Q1567791",
         "wk:page":"Praslin Quarter"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"LC",
     "wof:geomhash":"526ee0ae073fd45993ccb266f466ca27",
     "wof:hierarchy":[
@@ -253,7 +255,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884866,
     "wof:name":"Praslin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
