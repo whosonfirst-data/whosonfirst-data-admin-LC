@@ -203,10 +203,12 @@
     "wof:concordances":{
         "gn:id":3576771,
         "gp:id":2347024,
+        "iso:code_pseudo":"LC-06",
         "qs_pg:id":507469,
         "wd:id":"Q182988",
         "wk:page":"Dauphin Quarter"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"LC",
     "wof:geomhash":"91c5c3f3dc8cf1a15e8f1557f865de8f",
     "wof:hierarchy":[
@@ -223,7 +225,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884865,
     "wof:name":"Dauphin",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

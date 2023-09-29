@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003145,
-    "geom:area_square_m":37767034.785128,
+    "geom:area_square_m":37767148.608053,
     "geom:bbox":"-61.068105,13.756246,-60.980943,13.835766",
     "geom:latitude":13.794041,
     "geom:longitude":-61.025286,
@@ -197,14 +197,16 @@
         "gn:id":3576794,
         "gp:id":2347026,
         "hasc:id":"LC.CH",
+        "iso:code":"LC-03",
         "iso:id":"LC-03",
         "qs_pg:id":229384,
         "unlc:id":"LC-03",
         "wd:id":"Q1075816",
         "wk:page":"Choiseul Quarter"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"e64828c2e06760b91b7c7f31443883fb",
+    "wof:geomhash":"3448d25692b1a276ab05aa5074c60e37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -219,7 +221,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938524,
+    "wof:lastmodified":1695884866,
     "wof:name":"Choiseul",
     "wof:parent_id":85632369,
     "wof:placetype":"region",

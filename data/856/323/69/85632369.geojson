@@ -1140,6 +1140,7 @@
         "hasc:id":"LC",
         "icao:code":"J6",
         "ioc:id":"LCA",
+        "iso:code":"LC",
         "itu:id":"LCA",
         "loc:id":"n79034961",
         "m49:code":"662",
@@ -1154,6 +1155,7 @@
         "wk:page":"Saint Lucia",
         "wmo:id":"LC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
     "wof:country_alpha3":"LCA",
     "wof:geom_alt":[
@@ -1174,7 +1176,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Saint Lucia",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

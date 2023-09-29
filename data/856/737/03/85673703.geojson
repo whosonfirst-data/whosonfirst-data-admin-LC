@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002919,
-    "geom:area_square_m":35052467.971631,
+    "geom:area_square_m":35052904.301875,
     "geom:bbox":"-60.975223,13.774001,-60.892201,13.845172",
     "geom:latitude":13.814879,
     "geom:longitude":-60.927779,
@@ -261,14 +261,16 @@
         "gn:id":3576567,
         "gp:id":2347030,
         "hasc:id":"LC.MI",
+        "iso:code":"LC-08",
         "iso:id":"LC-08",
         "qs_pg:id":1322126,
         "unlc:id":"LC-08",
         "wd:id":"Q1240193",
         "wk:page":"Micoud Quarter"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LC",
-    "wof:geomhash":"c1cb82043a8801c5eb55576eda2ba581",
+    "wof:geomhash":"ff6d453b443a28b1238b709863de7616",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -283,7 +285,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938522,
+    "wof:lastmodified":1695884865,
     "wof:name":"Micoud",
     "wof:parent_id":85632369,
     "wof:placetype":"region",
