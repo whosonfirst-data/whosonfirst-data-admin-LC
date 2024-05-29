@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Reduit"
     ],
-    "name:eng_x_preferred":[
-        "reduit"
-    ],
     "name:est_x_preferred":[
         "R\u00e9duit"
     ],
@@ -123,8 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":162118,
-        "qs_pg:id":1057555,
-        "wd:id":"Q90747"
+        "qs_pg:id":1057555
     },
     "wof:country":"LC",
     "wof:created":1459009462,
@@ -138,7 +134,7 @@
         }
     ],
     "wof:id":421186011,
-    "wof:lastmodified":1690938526,
+    "wof:lastmodified":1717024374,
     "wof:name":"Reduit",
     "wof:parent_id":85673695,
     "wof:placetype":"locality",
